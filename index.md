@@ -14,7 +14,7 @@ You can find a copy of the project online at:
 - - - - - -
 #### Submitting Content
 
-We realize that everyone has their favorite commands they run. Is your go-to content not up here? Want to submit it? Either submit a pull request or if you don't want to spend the time becoming a Git Jedi, just visit our [Google Form](). Thanks! 
+We realize that everyone has their favorite commands they run. Is your go-to content not up here? Want to submit it? Either submit a pull request or if you don't want to spend the time becoming a Git Jedi, just visit our Google Form. Thanks! 
 
 - - - - - -
 Curators:
