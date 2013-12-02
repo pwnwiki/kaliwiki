@@ -11,7 +11,7 @@
   * [Wireless Attacks](wifi/index.md)
   * [Exploitation Tools](exploit/index.md)
   * [Sniffing / Spoofing](sniff_spoof/index.md)
-  * [Maintaining Access](persistance/index.md)
+  * [Maintaining Access](persistence/index.md)
   * [Reverse Engineering](re/index.md)
   * [Stress Testing](stresstesting/index.md)
   * [Hardware Hacking](hardware/index.md)
