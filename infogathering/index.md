@@ -3,6 +3,22 @@ DNS Analysis
 
 ### dnsdict6
 
+>dnsdict6 v2.3 (c) 2013 by van Hauser / THC <vh@thc.org> www.thc.org
+>
+>Syntax: dnsdict6 [-d46] [-s|-m|-l|-x] [-t THREADS] [-D] domain [dictionary-file]
+>
+>Enumerates a domain for DNS entries, it uses a dictionary file if supplied
+>or a built-in list otherwise. This tool is based on dnsmap by gnucitizen.org.
+>
+>Options:
+> -4      also dump IPv4 addresses
+> -t NO   specify the number of threads to use (default: 8, max: 32).
+> -D      dump the selected built-in wordlist, no scanning.
+> -d      display IPv6 information on NS and MX DNS domain information.
+> -S      perform SRV service name guessing
+> -[smlx] choose the dictionary size by -s(mall=50), -m(edium=796) (DEFAULT)
+> -l(arge=1416), or -x(treme=3211)
+
 ### dnsenum
 
 ### dnsmap
