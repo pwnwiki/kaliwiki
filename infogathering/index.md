@@ -1,23 +1,142 @@
+# Information Gathering 
+
 DNS Analysis
 ------------
 
-### dnsdict6
+ * [dnsdict6](../tools/dnsdict6.md)
+ * [dnsenum](../tools/dnsenum.md)
+ * [dnsmap](../tools/dnsmap.md)
+ * [dnsrecon](../tools/dnsrecon.md)
+ * [dnsrevenum6](../tools/dnsrevenum6.md)
+ * [dnstracer](../tools/dnstracer.md)
+ * [dnswalk](../tools/dnswalk.md)
+ * [fierce](../tools/fierce.md)
+ * [maltego](../tools/maltego.md)
+ * [nmap](../tools/nmap.md)
 
->dnsdict6 v2.3 (c) 2013 by van Hauser / THC <vh@thc.org> www.thc.org
->
->Syntax: dnsdict6 [-d46] [-s|-m|-l|-x] [-t THREADS] [-D] domain [dictionary-file]
->
->Enumerates a domain for DNS entries, it uses a dictionary file if supplied
->or a built-in list otherwise. This tool is based on dnsmap by gnucitizen.org.
->
->Options:
-> -4      also dump IPv4 addresses
-> -t NO   specify the number of threads to use (default: 8, max: 32).
-> -D      dump the selected built-in wordlist, no scanning.
-> -d      display IPv6 information on NS and MX DNS domain information.
-> -S      perform SRV service name guessing
-> -[smlx] choose the dictionary size by -s(mall=50), -m(edium=796) (DEFAULT)
-> -l(arge=1416), or -x(treme=3211)
+IDS / IPS Identification
+------------
+
+ * [fragroute](../tools/fragroute.md)
+ * [fragrouter](../tools/fragrouter.md)
+ * [ftest](../tools/ftest.md)
+ * [lbd](../tools/lbd.md)
+ * [wafw00f](../tools/wafw00f.md)
+
+Live Host Identification
+------------
+
+ * [alive6](../tools/alive6.md)
+ * [arping](../tools/arping.md)
+ * [cdpsnarf](../tools/cdpsnarf.md)
+ * [detect-new-ip6](../tools/detect-new-ip6.md)
+ * [detect_sniffer6](../tools/detect_sniffer6.md)
+ * [dmitry](../tools/dmitry.md)
+ * [dnmap-client](../tools/dnmap-client.md)
+ * [dnmap-server](../tools/dnmap-server.md)
+ * [fping](../tools/fping.md)
+ * [hping3](../tools/hping3.md)
+ * [inverse_lookup6](../tools/inverse_lookup6.md)
+ * [miranda](../tools/miranda.md)
+ * [ncat](../tools/ncat.md)
+ * [netdiscover](../tools/netdiscover.md)
+ * [nmap](../tools/nmap.md)
+ * [passive_discovery6](../tools/passive_discovery6.md)
+ * [thcping6](../tools/tchping6.md)
+ * [wol-e](../tools/wol-e.md)
+ * [xprobe2](../tools/xprobe2.md) 
+
+Network Scanners
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+OS Fingerprinting
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+OSINT Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+Route Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+Service Fingerprinting
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+SMB Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+SMTP Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+SNMP Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+SSL Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+Telephony Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+Traffic Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+VoIP Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
+VPN Analysis
+------------
+
+ * [first]()
+ * [second]()
+ * [third]()
+
 
 ### dnsenum
 
@@ -43,7 +162,7 @@ DNS Analysis
 ### zenmap
 
 IDS/IPS Identification
-----------------------
+
 
 ### fragroute
 
@@ -56,7 +175,7 @@ IDS/IPS Identification
 ### wafw00f
 
 Live Host Identification
-------------------------
+
 
 ### alive6
 
@@ -100,7 +219,7 @@ Live Host Identification
 ### zenmap
 
 Network Scanners
-----------------
+
 
 ### dmitry
 
@@ -116,7 +235,7 @@ Network Scanners
 ### zenmap
 
 OS Fingerprinting
------------------
+
 
 ### dnmap-client
 
@@ -130,7 +249,7 @@ OS Fingerprinting
 ### zenmap
 
 OSINT Analysis
---------------
+
 
 ### casefile
 
@@ -149,7 +268,7 @@ OSINT Analysis
 ### urlcrazy
 
 Route Analysis
---------------
+
 
 ### 0trace
 
@@ -164,7 +283,7 @@ Route Analysis
 ### trace6
 
 Service Fingerprinting
-----------------------
+
 
 ### dnmap-client
 
@@ -188,7 +307,7 @@ Service Fingerprinting
 ### zenmap
 
 SMB Analysis
-------------
+
 
 ### acccheck
 
@@ -200,7 +319,7 @@ SMB Analysis
 ### zenmap
 
 SMTP Analysis
--------------
+
 
 ### nmap
 [include](infogathering/nmap.md)
@@ -212,7 +331,7 @@ SMTP Analysis
 ### zenmap
 
 SNMP Analysis
--------------
+
 
 ### braa
 
@@ -234,7 +353,7 @@ SNMP Analysis
 ### zenmap
 
 SSL Analysis
-------------
+
 
 ### sslcaudit
 
@@ -259,12 +378,12 @@ SSL Analysis
 ### tlssled
 
 Telephony Analysis
-------------------
+
 
 ### ace
 
 Traffic Analysis
-----------------
+
 
 ### 0trace
 
@@ -285,13 +404,13 @@ Traffic Analysis
 ### wireshark
 
 VoIP Analysis
--------------
+
 
 ### ace
 
 ### enumiax
 
 VPN Analysis
-------------
+
 
 ### ike-scan
