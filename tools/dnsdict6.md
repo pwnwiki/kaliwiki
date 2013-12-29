@@ -3,15 +3,14 @@
 Notes
 -------
 
-Has a pretty good built in list. But the SRV service enumeration doesn't seem to do anything. Ran it against att.com and all I got was:
+Has a pretty good built in list. But the SRV service enumeration doesn't seem to do anything for att.com ; however, it works well on google.com for service enumeration:
 ```
-dnsdict6 -t 32 -S att.com
+dnsdict6 -t 32 -S google.com
 Starting DNS enumeration work on att.com. ...
 Starting SRV service enumeration
 Estimated time to completion: 1 to 4 minutes
 Found 582 services with 1164 entries altogether
 ```
-Then it started brute forcing as it normally would
 
 Help Text
 -------
