@@ -5,7 +5,7 @@ Notes
 
 Has a pretty good built in list. But the SRV service enumeration doesn't seem to do anything for att.com ; however, it works well on google.com for service enumeration:
 ```
-dnsdict6 -t 32 -S -4  google.com
+root@KaliLinux:~# dnsdict6 -t 32 -S -4  google.com
 Starting DNS enumeration work on google.com. ...
 Starting SRV service enumeration
 Estimated time to completion: 1 to 4 minutes
