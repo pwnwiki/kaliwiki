@@ -14,24 +14,24 @@ Notes
 -----------
 
 # Suite Tools:<br>
-    [- airbase-ng](#airbase-ng)  
-    [- aircrack-ng](#aircrack-ng)  
-    [- airdecap-ng](#airdecap)  
-    [- airdecloak-ng](#airdecloak-ng)  
-    [- airdriver-ng](#airdriver-ng)  
-    [- airdrop-ng](#airdrop-ng)  
-    [- aireplay-ng](#aireplay-ng)  
-    [- airgraph-ng](#airgraph-ng)  
-    [- airmon-ng](#airmon-ng)  
-    [- airodump-ng](#airodump-ng)  
-    [- airolib-ng](#airolib-ng)  
-    [- airserv-ng](#airsery-ng)  
-    [- airtun-ng](#airtun-ng)  
-    [- besside-ng](#besside-ng)  
-    [- easside-ng](#easside-ng)  
-    [- packetforge-ng](#packetforge-ng)  
-    [- tkiptun-ng](#tkiptun-ng)  
-    [- wesside-ng](#wesside-ng)  
+[airbase-ng](#airbase-ng)  
+[aircrack-ng](#aircrack-ng)  
+[airdecap-ng](#airdecap)  
+[airdecloak-ng](#airdecloak-ng)  
+[airdriver-ng](#airdriver-ng)  
+[airdrop-ng](#airdrop-ng)  
+[aireplay-ng](#aireplay-ng)  
+[airgraph-ng](#airgraph-ng)  
+[airmon-ng](#airmon-ng)  
+[airodump-ng](#airodump-ng)  
+[airolib-ng](#airolib-ng)  
+[airserv-ng](#airsery-ng)  
+[airtun-ng](#airtun-ng)  
+[besside-ng](#besside-ng)  
+[easside-ng](#easside-ng)  
+[packetforge-ng](#packetforge-ng)  
+[tkiptun-ng](#tkiptun-ng)  
+[wesside-ng](#wesside-ng)  
 	
 **Info:**  
 
@@ -63,7 +63,7 @@ Description
 Airodump-ng is used for packet capturing of raw 802.11 frames and is particularly suitable for collecting WEP IVs (Initialization Vector) for the intent of using them with aircrack-ng. If you have a GPS receiver connected to the computer, airodump-ng is capable of logging the coordinates of the found access points.  
 Additionally, airodump-ng writes out several files containing the details of all access points and clients seen.  
 
-usage: airodump-ng <options> <interface>[,<interface>,...]
+usage: airodump-ng <options> <interface> <interface>  
 
 Options:  
   --ivs               : Save only captured IVs
@@ -88,7 +88,7 @@ Options:
                          specified will be output.  Only ivs or pcap can be used, not both.  
 
 Filter options:  
-  --encrypt   <suite> : Filter APs by cipher suite  
+  """--encrypt   <suite> : Filter APs by cipher suite  """
   --netmask <netmask> : Filter APs by mask  
   --bssid     <bssid> : Filter APs by BSSID  
   -a                  : Filter unassociated clients  
