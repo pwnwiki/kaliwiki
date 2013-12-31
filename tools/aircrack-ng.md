@@ -33,37 +33,37 @@ Notes
 Help Text  
 ---------  
 
-# airbase-ng  
+## airbase-ng  
 Description:  
-# aircrack-ng  
+## aircrack-ng  
 Description:  
-# airdecap-ng  
+## airdecap-ng  
 Description:  
-# airdecloak-ng  
+## airdecloak-ng  
 Description:  
-# airdriver-ng  
+## airdriver-ng  
 Description:  
-# airdrop-ng  
+## airdrop-ng  
 Description:  
-# aireplay-ng  
+## aireplay-ng  
 Description:  
-# airgraph-ng  
+## airgraph-ng  
 Description:  
-# airmon-ng  
+## airmon-ng  
 Description:
 
 This script can be used to enable monitor mode on wireless interfaces. It may also be used to go back from monitor mode to managed mode. Entering the airmon-ng command without parameters will show the interfaces status.  
 
 Usage: airmon-ng <start|stop> <interface> [channel] or airmon-ng <check|check kill>  
-	 ```
-    * <start|stop> indicates if you wish to start or stop the interface. (Mandatory)  
-    * <interface> specifies the interface. (Mandatory)  
-    * [channel] optionally set the card to a specific channel. (Optional)  
-    * <check|check kill> “check” will show any processes that might interfere with the aircrack-ng suite. It is strongly recommended that these processes be eliminated prior to using the aircrack-ng suite. “check kill” will check and kill off processes that might interfere with the aircrack-ng suite. For “check kill” see  
-	```
-Example: [airmon-ng example](# airmon-ng example)
+```
+* <start|stop> indicates if you wish to start or stop the interface. (Mandatory)  
+* <interface> specifies the interface. (Mandatory)  
+* [channel] optionally set the card to a specific channel. (Optional)  
+* <check|check kill> “check” will show any processes that might interfere with the aircrack-ng suite. It is strongly recommended that these processes be eliminated prior to using the aircrack-ng suite. “check kill” will check and kill off processes that might interfere with the aircrack-ng suite. For “check kill” see  
+```
+Example: [airmon-ng examples](## airmon-ng examples)
 
-# airodump-ng  
+## airodump-ng  
 Description  
 
 Airodump-ng is used for packet capturing of raw 802.11 frames and is particularly suitable for collecting WEP IVs (Initialization Vector) for the intent of using them with aircrack-ng. If you have a GPS receiver connected to the computer, airodump-ng is capable of logging the coordinates of the found access points.  
@@ -114,23 +114,23 @@ You can make it capture on other/specific channel(s) by using:
 
   --help              : Displays this usage screen  
 ```						  
-# airolib-ng  
+## airolib-ng  
 Description:  
-# airserv-ng  
+## airserv-ng  
 Description:  
-# airtun-ng  
+## airtun-ng  
 Description:  
-# besside-ng  
+## besside-ng  
 Description:  
-# packetforge-ng  
+## packetforge-ng  
 Description:  
-# tkiptun-ng  
+## tkiptun-ng  
 Description:  
-# wesside-ng  
+## wesside-ng  
 Description:  
 
 # Example Usage 
-# airmon-ng example
+## airmon-ng examples
 
 # Links
 
