@@ -1,4 +1,4 @@
-# aircrack-ng  
+# aircrack-NG 
 
 Notes
 -------
@@ -9,9 +9,6 @@ Notes
 
 
 **Purpose**: Aircrack-ng is an 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured. It implements the standard FMS attack along with some optimizations like KoreK attacks, as well as the all-new PTW attack, thus making the attack much faster compared to other WEP cracking tools.
-
-# Help Text
------------
 
 # Suite Tools:  
 [airbase-ng](#airbase-ng)  
@@ -33,16 +30,25 @@ Notes
 [tkiptun-ng](#tkiptun-ng)  
 [wesside-ng](#wesside-ng)  
 	
-**Info:**  
+Help Text  
+---------  
 
 # airbase-ng  
+Description:  
 # aircrack-ng  
+Description:  
 # airdecap-ng  
+Description:  
 # airdecloak-ng  
+Description:  
 # airdriver-ng  
+Description:  
 # airdrop-ng  
+Description:  
 # aireplay-ng  
+Description:  
 # airgraph-ng  
+Description:  
 # airmon-ng  
 Description:
 
@@ -50,13 +56,12 @@ This script can be used to enable monitor mode on wireless interfaces. It may al
 
 Usage: airmon-ng <start|stop> <interface> [channel] or airmon-ng <check|check kill>  
 	 ```
-	 Where:  
-
     * <start|stop> indicates if you wish to start or stop the interface. (Mandatory)  
     * <interface> specifies the interface. (Mandatory)  
     * [channel] optionally set the card to a specific channel. (Optional)  
     * <check|check kill> “check” will show any processes that might interfere with the aircrack-ng suite. It is strongly recommended that these processes be eliminated prior to using the aircrack-ng suite. “check kill” will check and kill off processes that might interfere with the aircrack-ng suite. For “check kill” see  
 	```
+Example: [airmon-ng example](# airmon-ng example)
 
 # airodump-ng  
 Description  
@@ -110,18 +115,24 @@ You can make it capture on other/specific channel(s) by using:
   --help              : Displays this usage screen  
 ```						  
 # airolib-ng  
+Description:  
 # airserv-ng  
+Description:  
 # airtun-ng  
+Description:  
 # besside-ng  
+Description:  
 # packetforge-ng  
+Description:  
 # tkiptun-ng  
+Description:  
 # wesside-ng  
+Description:  
 
 # Example Usage 
-
+# airmon-ng example
 
 # Links
 
 Resource Page: http://www.aircrack-ng.org/resources.html
-
 Tutorial Page: http://www.aircrack-ng.org/doku.php?id=tutorial
