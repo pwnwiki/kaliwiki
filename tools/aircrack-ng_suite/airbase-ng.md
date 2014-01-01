@@ -1,15 +1,29 @@
-AIRBASE-NG(8)                                                    AIRBASE-NG(8)
+# AIRBASE-NG
+
+Notes
+-----
+
+**Purpose**: airbase-ng is multi-purpose tool aimed at attacking clients as  opposed to the Access Point (AP) itself. Since it is so versatile and flexible, summarizing it is a challenge. Here are some of the feature highlights:  
+    - Implements the Caffe Latte WEP client attack
+    - Implements the Hirte WEP client attack
+    - Ability to cause the WPA/WPA2 handshake to be captured
+    - Ability to act as an ad-hoc Access Point
+    - Ability to act as a full Access Point
+    - Ability to filter by SSID or client MAC addresses
+    - Ability to manipulate and resend packets
+    - Ability to encrypt sent packets and decrypt received packets
+
+The main idea is of the implementation  is  that  it  should  encourage clients  to associate with the fake AP, not prevent them from accessing the real AP.
+
+A tap interface (atX) is created when airbase-ng is run.  This  can  be used to receive decrypted packets or to send encrypted packets.
+
+As  real clients will most probably send probe requests for common figured networks, these frames are important for binding a client to our softAP. In this case, the AP will respond to any probe request with a proper probe response, which tells the client to authenticate to  the airbase-ng BSSID. That being said, this mode could possibly disrupt the correct functionality of many APs on the same channel.
 
 
-
-NAME
-       airbase-ng  -  multi-purpose tool aimed at attacking clients as opposed
-       to the Access Point (AP) itself
-
-SYNOPSIS
-       airbase-ng [options] <interface name>
+Usage: airbase-ng [options] <interface name>   
 
 DESCRIPTION
+```
        airbase-ng is multi-purpose tool aimed at attacking clients as  opposed
        to the Access Point (AP) itself. Since it is so versatile and flexible,
        summarizing it is a challenge. Here are some of the feature highlights:
@@ -35,8 +49,9 @@ DESCRIPTION
        a proper probe response, which tells the client to authenticate to  the
        airbase-ng BSSID. That being said, this mode could possibly disrupt the
        correct functionality of many APs on the same channel.
-
+```
 OPTIONS
+```
        -H, --help
               Shows the help screen.
 
@@ -266,34 +281,4 @@ OPTIONS
 
        --essids <file>, -E <file>
               read a list of ESSIDs out of that file.
-
-AUTHOR
-       This manual page  was  written  by  Thomas  d'Otreppe.   Permission  is
-       granted to copy, distribute and/or modify this document under the terms
-       of the GNU General Public License, Version 2 or any later version  pubâ€
-       lished  by the Free Software Foundation On Debian systems, the complete
-       text of the GNU General Public License can be found in  /usr/share/comâ€
-       mon-licenses/GPL.
-
-SEE ALSO
-       aircrack-ng(1)
-       airdecap-ng(1)
-       airdecloak-ng(1)
-       airdriver-ng(8)
-       aireplay-ng(8)
-       airmon-ng(8)
-       airodump-ng(8)
-       airolib-ng(1)
-       airserv-ng(8)
-       buddy-ng(1)
-       easside-ng(8)
-       ivstools(1)
-       kstats(1)
-       makeivs-ng(1)
-       packetforge-ng(1)
-       tkiptun-ng(8)
-       wesside-ng(8)
-
-
-
-Version 1.2-beta2                November 2013                   AIRBASE-NG(8)
+```
