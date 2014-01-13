@@ -4,7 +4,7 @@ Notes
 -------
 
  * Version: 1.2-beta2 release  
- * Kali Linux Verison: 1.0.5  
+ * Kali Linux Verison: 1.0.6  
  * Developers: Thomas d'Otreppe
 
 
@@ -33,5 +33,5 @@ Notes
 
 # Links
 
-Resource Page: http://www.aircrack-ng.org/resources.html
-Tutorial Page: http://www.aircrack-ng.org/doku.php?id=tutorial
+Resource Page: http://www.aircrack-ng.org/resources.html  
+Tutorial Page: http://www.aircrack-ng.org/doku.php?id=tutorial  
