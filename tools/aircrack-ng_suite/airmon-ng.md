@@ -39,17 +39,17 @@ Notes
 Example Usage
 ---------------
 
-Display all process that will interfere with wireless card
+Display all process that will interfere with wireless card  
 	* `airmon-ng check`
 	
-Kill any process that will interfere with wireless card
+Kill any process that will interfere with wireless card  
 	* `airmon-ng check kill`
 	
-Start monitor mode
+Start monitor mode  
 	* `airmon-ng start wlan0`
 	
-Start monitor mode on a specific channel
+Start monitor mode on a specific channel  
 	* `airmon-ng start wlan0 11`
 	
-Stop monitor mode
+Stop monitor mode  
 	* `airmon-ng stop mon0`
