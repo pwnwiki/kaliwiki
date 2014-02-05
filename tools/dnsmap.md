@@ -5,6 +5,7 @@ Notes
 
 Help Text
 -------
+```
 dnsmap 0.30 - DNS Network Mapper by pagvac (gnucitizen.org)
 
 usage: dnsmap <target-domain> [options]
@@ -14,6 +15,7 @@ options:
 -c <csv-results-file>
 -d <delay-millisecs>
 -i <ips-to-ignore> (useful if you're obtaining false positives)
+```
 
 Example Usage
 -------

@@ -5,6 +5,7 @@ Notes
 
 Help Text
 -------
+```
 Usage: dnsenum.pl [Options] <domain> 
 [Options]:
 Note: the brute force -f switch is obligatory.
@@ -41,6 +42,7 @@ REVERSE LOOKUP OPTIONS:
 			Exclude PTR records that match the regexp expression from reverse lookup results, useful on invalid hostnames.
 OUTPUT OPTIONS:
   -o --output <file>	Output in XML format. Can be imported in MagicTree (www.gremwell.com)
+```
 
 Example Usage
 -------

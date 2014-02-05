@@ -5,6 +5,7 @@ Notes
 
 Help Text
 -------
+```
 Version: 0.8.1
 Usage: dnsrecon.py <options>
 
@@ -62,6 +63,7 @@ Options:
    --xml              <file>   XML File to save found records.
    -c, --csv          <file>   Comma separated value file.
    -v                          Show attempts in the bruteforce modes.
+```
 
 Example Usage
 -------
