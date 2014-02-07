@@ -62,9 +62,11 @@ Network Scanners
 OS Fingerprinting
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [dnmap-client](../tools/dnmap-client.md)
+ * [dnmap-server](../tools/dnmap-server.md)
+ * [miranda](../tools/miranda.md)
+ * [nmap](../tools/nmap.md)
+ * [zenmap](../tools/zenmap.md)
 
 OSINT Analysis
 ------------
