@@ -13,6 +13,8 @@ DNS Analysis
  * [fierce](../tools/fierce.md)
  * [maltego](../tools/maltego.md)
  * [nmap](../tools/nmap.md)
+ * [urlcrazy](../tools/urlcrazy.md)
+ * [zenmap](../tools/zenmap.md)
 
 IDS / IPS Identification
 ------------
@@ -45,6 +47,7 @@ Live Host Identification
  * [thcping6](../tools/tchping6.md)
  * [wol-e](../tools/wol-e.md)
  * [xprobe2](../tools/xprobe2.md) 
+ * [zenmap](../tools/zenmap.md)
 
 Network Scanners
 ------------
