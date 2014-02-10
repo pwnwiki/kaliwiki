@@ -7,6 +7,7 @@ Nmap(“Network Mapper”) is a security scanner originally written by Gordon Ly
 
 Help Text
 -------
+nmap -h, nmap --h
 
 Example Usage
 -------
