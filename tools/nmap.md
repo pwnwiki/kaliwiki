@@ -7,10 +7,8 @@ Nmap(“Network Mapper”) is a security scanner originally written by Gordon Ly
 
 Help Text
 -------
-nmap -h, nmap --h, nmap -help
-
-nmap -help
-
+```
+root@kali:~# nmap -help
 Nmap 6.25 ( http://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
 TARGET SPECIFICATION:
@@ -122,6 +120,7 @@ EXAMPLES:
   nmap -v -sn 192.168.0.0/16 10.0.0.0/8
   nmap -v -iR 10000 -Pn -p 80
 SEE THE MAN PAGE (http://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
+root@kali:~# 
 
 
 Example Usage
