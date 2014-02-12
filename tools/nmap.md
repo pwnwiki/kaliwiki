@@ -152,5 +152,4 @@ Nmap done: 1 IP address (1 host up) scanned in 5.58 seconds
 
 Links
 -------
-
-http://nmap.org/
+* Source: http://nmap.org/
