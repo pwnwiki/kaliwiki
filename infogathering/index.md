@@ -65,7 +65,7 @@ OS Fingerprinting
  * [nmap](../tools/nmap.md)
  * [zenmap](../tools/zenmap.md)
  
- OSINT Analysis
+OSINT Analysis
 ------------
 
  * [casefile](../tools/casefile.md)
@@ -81,9 +81,12 @@ OS Fingerprinting
 Route Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [Otrace](../tools/0trace.md)
+ * [dnmap-client](../tools/dnmap-client.md)
+ * [dnmap-server](../tools/dnmap-server.md)
+ * [intrace](../tools/intrace.md)
+ * [netmask](../tools/netmask.md)
+ * [trace6](../tools/trace6.md)
 
 Service Fingerprinting
 ------------
