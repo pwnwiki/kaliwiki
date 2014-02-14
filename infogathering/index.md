@@ -49,9 +49,12 @@ Live Host Identification
 Network Scanners
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [dmitry](../tools/dmitry.md)
+ * [dnmap-client](../tools/dnmap-client.md)
+ * [dnmap-server](../tools/dnmap-server.md)
+ * [netdiscover](../tools/netdiscover.md)
+ * [nmap](../tools/nmap.md)
+ * [zenmap](../tools/zenmap.md)
 
 OS Fingerprinting
 ------------
