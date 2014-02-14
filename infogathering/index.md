@@ -65,13 +65,18 @@ OS Fingerprinting
  * [nmap](../tools/nmap.md)
  * [zenmap](../tools/zenmap.md)
  
-
-OSINT Analysis
+ OSINT Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [casefile](../tools/casefile.md)
+ * [creepy](../tools/creepy.md)
+ * [dmitry](../tools/dmistry.md)
+ * [jigsaw](../tools/jigsaw.md)
+ * [maltego](../tools/maltego.md)
+ * [metagoofil](../tools/metagoofil.md)
+ * [theharvester](../tools/theharvester.md)
+ * [twofi](../tools/twofi.md)
+ * [urlcrazy](../tools/urlcrazy.md)
 
 Route Analysis
 ------------
