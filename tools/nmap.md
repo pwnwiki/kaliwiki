@@ -2,6 +2,8 @@
 
 Notes
 -------
+What is Nmap?
+Nmap("Network Mapper") is a security scanner originally written by Gordon Lyon used to discover hosts and services on a computer network, thus creating a "map" of the network.
 
 Help Text
 -------
