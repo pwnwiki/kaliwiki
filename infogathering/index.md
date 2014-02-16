@@ -91,16 +91,24 @@ Route Analysis
 Service Fingerprinting
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [dnmap-client](../tools/dnmap-client.md)
+ * [dnmap-server](../tools/dnmap-server.md)
+ * [implementation6](../tools/implementation6.md)
+ * [implementation6d](../tools/implementation6d.md)
+ * [ncat](../tools/ncat.md)
+ * [nmap](../tools/nmap.md)
+ * [sslscan](../tools/sslscan.md)
+ * [sslyze](../tools/sslyze.md)
+ * [tlssled](../tools/tlssled.md)
+ * [zenmap](../tools/zenmap.md)
 
 SMB Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [acccheck](../tools/acccheck.md)
+ * [nbtscan](../tools/nbtscan.md)
+ * [nmap](../tools/nmap.md)
+ * [zenmap](../tools.zenmap.md)
 
 SMTP Analysis
 ------------
