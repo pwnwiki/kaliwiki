@@ -6,7 +6,7 @@ Notes
 Help Text
 -------
 ```
-Nmap 6.40 ( http://nmap.org )
+Nmap 6.25 ( http://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
 TARGET SPECIFICATION:
   Can pass hostnames, IP addresses, networks, etc.
@@ -118,7 +118,6 @@ EXAMPLES:
   nmap -v -iR 10000 -Pn -p 80
 SEE THE MAN PAGE (http://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 ```
-
 Example Usage
 -------
 # nmap -O -v scanme.nmap.org
@@ -148,5 +147,4 @@ Nmap done: 1 IP address (1 host up) scanned in 5.58 seconds
 
 Links
 -------
-
 http://nmap.org/
