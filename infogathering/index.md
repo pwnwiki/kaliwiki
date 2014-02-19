@@ -113,16 +113,23 @@ SMB Analysis
 SMTP Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [nmap](../tools.nmap.md)
+ * [smtp-user-enum](../tools.smtp-user-enum.md)
+ * [swaks](../tools.swaks.md)
+ * [zenmap](../tools.zenmap.md)
 
 SNMP Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [braa](../tools.braa.md)
+ * [cisco-auditing-tool](../tools.cisco-auditing-tool.md)
+ * [cisco-torch](../tools.cisco-torch.md)
+ * [copy-router-config](../tools.copy-router-config.md)
+ * [merge-router-config](../tools.merge-router-config.md)
+ * [nmap](../tools.nmap.md)
+ * [onesixtyone](../tools.onesixtyone.md)
+ * [snmpcheck](../tools.snmpcheck.md)
+ * [zenmap](../tools.zenmap.md)
 
 SSL Analysis
 ------------
