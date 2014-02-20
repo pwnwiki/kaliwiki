@@ -134,16 +134,20 @@ SNMP Analysis
 SSL Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [sslcaudit](../tools.sslcaudit.md)
+ * [ssldump](../tools.ssldump.md)
+ * [sslh](../tools.ssl.md)
+ * [sslscan](../tools.sslscan.md)
+ * [sslsniff](../tools.sslsniff.md)
+ * [sslstrip](../tools.sslstrip.md)
+ * [sslyze](../tools.sslyze.md)
+ * [stunnel4](../tools.stunnel4.md)
+ * [tlssled](../tools.tlssled.md)
 
 Telephony Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [ace](../tools/ace.md)
 
 Traffic Analysis
 ------------
@@ -151,6 +155,12 @@ Traffic Analysis
  * [first]()
  * [second]()
  * [third]()
+ * [zenmap](../tools.zenmap.md)
+ * [zenmap](../tools.zenmap.md)
+ * [zenmap](../tools.zenmap.md)
+ * [zenmap](../tools.zenmap.md)
+ * [zenmap](../tools.zenmap.md)
+ * [zenmap](../tools.zenmap.md)
 
 VoIP Analysis
 ------------
