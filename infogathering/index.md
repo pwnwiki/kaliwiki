@@ -152,30 +152,26 @@ Telephony Analysis
 Traffic Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
- * [zenmap](../tools.zenmap.md)
- * [zenmap](../tools.zenmap.md)
- * [zenmap](../tools.zenmap.md)
- * [zenmap](../tools.zenmap.md)
- * [zenmap](../tools.zenmap.md)
- * [zenmap](../tools.zenmap.md)
+ * [0trace](../tools.0trace.md)
+ * [cdpsnarf](../tools.cdpsnarf.md)
+ * [ftest](../tools.ftest.md)
+ * [intrace](../tools.intrace.md)
+ * [irpas-ass](../tools.irpas-ass.md)
+ * [irpass-cdp](../tools.irpass-cdp.md)
+ * [p0f](../tools.p0f.md)
+ * [tcpflow](../tools.tcpflow.md)
+ * [wireshark](../tools.wireshark.md)
 
 VoIP Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [ace](../tools.ace.md)
+ * [enumiax](../tools.enumiax.md)
 
 VPN Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
-
+ * [ike-scan](../tools.ike-scan.md)
 
 ### dnsenum
 
