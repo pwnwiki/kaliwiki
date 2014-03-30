@@ -154,9 +154,13 @@ Telephony Analysis
 Traffic Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [cdpsnarf](../tools/cdpsnarf.md)
+ * [intrace](../tools/intrace.md)
+ * [irpas-ass](../tools/irpass-ass.md)
+ * [irpas-cdp](../tools/irpass-cdp.md)
+ * [p0f](../tools/p0f.md)
+ * [tcpflow](../tools/tcpflow.md)
+ * [wireshark](../tools/wireshark.md)
 
 VoIP Analysis
 ------------
