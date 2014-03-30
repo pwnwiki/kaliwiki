@@ -116,30 +116,40 @@ SMB Analysis
 SMTP Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [nmap](../tools/nmap.md)
+ * [smtp-user-enum](../tools/smtp-user-enum.md)
+ * [swaks](../tools/swaks.md)
 
 SNMP Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [braa](../tools/braa.md)
+ * [cisco-auditing-tool](../tools/CAT.md)
+ * [cisco-torch](../tools/cisco-torch.pl.md)
+ * [cisco-router-config](../tools/cisco-router-config.pl.md)
+ * [merge-router-config](../tools/merge-router-config.pl.md)
+ * [nmap](../tools/nmap.md)
+ * [onesixtyone](../tools/onesixtyone.md)
+ * [snmp-check](../tools/snmpcheck.md)
 
 SSL Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [sslcaudit](../tools/sslcaudit.md)
+ * [ssldump](../tools/ssldump.md)
+ * [sslh](../tools/sslh.md)
+ * [sslscan](../tools/sslscan.md)
+ * [sslsniff](../tools/sslsniff.md)
+ * [sslstrip](../tools/sslstrip.md)
+ * [sslyze](../tools/sslyze.md)
+ * [stunnel4](../tools/stunnel4.md)
+ * [TLSSLed](../tools/tlssled.md)
+
 
 Telephony Analysis
 ------------
 
- * [first]()
- * [second]()
- * [third]()
+ * [ace](../tools/ace.md)
 
 Traffic Analysis
 ------------
