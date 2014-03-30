@@ -1,5 +1,11 @@
-# ettercap -h
+# ettercap
 
+Notes
+-------
+
+Help Text
+-------
+```
 ettercap NG-0.7.4.2 copyright 2001-2005 ALoR & NaGA
 
 
@@ -56,4 +62,11 @@ General options:
 Standard options:
   -v, --version               prints the version and exit
   -h, --help                  this help screen
+```
+
+Example Usage
+-------
+
+Links
+-------
 
