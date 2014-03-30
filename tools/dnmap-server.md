@@ -1,4 +1,4 @@
-# dnmap_server
+# dnmap-server
 
 Notes
 -------

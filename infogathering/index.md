@@ -111,7 +111,7 @@ SMB Analysis
  * [acccheck](../tools/acccheck.md)
  * [nbtscan](../tools/nbtscan.md)
  * [nmap](../tools/nmap.md)
- * [zenmap](../tools.zenmap.md)
+ * [zenmap](../tools/zenmap.md)
 
 SMTP Analysis
 ------------
