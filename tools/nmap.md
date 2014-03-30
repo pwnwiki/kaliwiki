@@ -3,12 +3,11 @@
 Notes
 -------
 What is Nmap?
-Nmap(“Network Mapper”) is a security scanner originally written by Gordon Lyon used to discover hosts and services on a computer network, thus creating a "map" of the network. 
+Nmap("Network Mapper") is a security scanner originally written by Gordon Lyon used to discover hosts and services on a computer network, thus creating a "map" of the network.
 
 Help Text
 -------
 ```
-root@kali:~# nmap -help
 Nmap 6.25 ( http://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
 TARGET SPECIFICATION:
@@ -120,9 +119,7 @@ EXAMPLES:
   nmap -v -sn 192.168.0.0/16 10.0.0.0/8
   nmap -v -iR 10000 -Pn -p 80
 SEE THE MAN PAGE (http://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
-root@kali:~# 
-
-
+```
 Example Usage
 -------
 # nmap -O -v scanme.nmap.org
