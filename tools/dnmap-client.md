@@ -1,4 +1,4 @@
-# dnmap_client
+# dnmap-client
 
 Notes
 -------
