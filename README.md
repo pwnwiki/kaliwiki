@@ -13,8 +13,7 @@ You can find a copy of the project online at:
 
 - - - - - -
 #### Submitting Content
-
-We realize that everyone has their favorite commands they run. Is your go-to content not up here? Want to submit it? Either submit a pull request or if you don't want to spend the time becoming a Git Jedi, in the near future you will be able to just visit our Google Form. Thanks! 
+We want/need your help! Please contribute to this project is via GitHub (https://github.com/pwnwiki/kaliwiki). That allows us to get your project-ready content incorporated into the wiki fast.
 
 - - - - - -
 Curators:
