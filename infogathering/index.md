@@ -119,8 +119,7 @@ SMTP Analysis
  * [nmap](../tools/nmap.md)
  * [smtp-user-enum](../tools/smtp-user-enum.md)
  * [swaks](../tools/swaks.md)
- * [zenmap](../tools/zenmap.md)
- * 
+
 SNMP Analysis
 ------------
 
@@ -132,7 +131,6 @@ SNMP Analysis
  * [nmap](../tools/nmap.md)
  * [onesixtyone](../tools/onesixtyone.md)
  * [snmp-check](../tools/snmpcheck.md)
- * [zenmap](../tools/zenmap.md)
 
 SSL Analysis
 ------------
@@ -147,6 +145,7 @@ SSL Analysis
  * [stunnel4](../tools/stunnel4.md)
  * [TLSSLed](../tools/tlssled.md)
 
+
 Telephony Analysis
 ------------
 
@@ -155,9 +154,7 @@ Telephony Analysis
 Traffic Analysis
 ------------
 
- * [0trace](../tools/0trace.md)
  * [cdpsnarf](../tools/cdpsnarf.md)
- * [ftest](../tools/ftest.md)
  * [intrace](../tools/intrace.md)
  * [irpas-ass](../tools/irpass-ass.md)
  * [irpas-cdp](../tools/irpass-cdp.md)
@@ -171,141 +168,8 @@ VoIP Analysis
  * [ace](../tools/ace.md)
  * [enumiax](../tools/enumiax.md)
 
-VPN Analysis
-------------
-
- * [ike-scan](../tools.ike-scan.md)
-
-### dnsenum
-
-### dnsmap
-
-### dnsrecon
-
-### dnsrevenum6
-
-### dnstracer
-
-### dnswalk
-
-### fierce
-
-### maltego
-
-### nmap
-[include](infogathering/nmap.md)
-
-### urlcrazy
-
-### zenmap
-
-IDS/IPS Identification
-
-
-### fragroute
-
-### fragrouter
-
-### ftest
-
-### lbd
-
-### wafw00f
-
-Live Host Identification
-
-
-### alive6
-
-### arping
-
-### cdpsnarf
-
-### detect-new-ip6
-
-### detect_sniffer6
-
-### dmitry
-
-### dnmap-client
-
-### dnmap-server
-
-### fping
-
-### hping3
-
-### inverse_lookup6
-
-### miranda
-
-### ncat
-
-### netdiscover
-
-### nmap
-[include](infogathering/nmap.md)
-
-### passive_discovery6
-
-### thcping6
-
-### wol-e
-
-### xprobe2
-
-### zenmap
-
-Network Scanners
-
-
-### dmitry
-
-### dnmap-client
-
-### dnmap-server
-
-### netdiscover
-
-### nmap
-[include](infogathering/nmap.md)
-
-### zenmap
-
-OS Fingerprinting
-
-
-### dnmap-client
-
-### dnmap-server
-
-### miranda
-
-### nmap
-[include](infogathering/nmap.md)
-
-### zenmap
-
-OSINT Analysis
-
-
-### casefile
-
-### creepy
-
-### jigsaw
-
-### maltego
-
-### metagoofil
-
-### theharvester
-
-### twofi
-
 
 VPN Analysis
 ------------
 
  * [ikescan](../tools/ikescan.md)
-
