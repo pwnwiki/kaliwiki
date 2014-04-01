@@ -14,7 +14,7 @@ Database Assessment
 
  * [bbqsql](../tools/bbqsql.md)
  * [dbpwaudit](../tools/dbpwaudit.md)
- * [hexorbase]
+ * [hexorbase](../tools/hexorbase.md)
  * [jsql]
  * [mdb-export]
  * [mdb-hexdump]
