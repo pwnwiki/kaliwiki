@@ -15,5 +15,5 @@ Example Usage
 
 Links
 -------
-[Youtube](https://www.youtube.com/watch?v=vFt161LMA80)
-https://code.google.com/p/hexorbase/
+ * [Youtube](https://www.youtube.com/watch?v=vFt161LMA80)
+ * https://code.google.com/p/hexorbase/
