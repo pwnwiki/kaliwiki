@@ -12,7 +12,7 @@ Cisco Tools
 Database Assessment
 -------------------
 
- * [bbqsql]
+ * [bbqsql](../tools/bbqsql.md)
  * [dbpwaudit]
  * [hexorbase]
  * [jsql]
