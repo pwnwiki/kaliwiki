@@ -12,11 +12,10 @@ Cisco Tools
 Database Assessment
 -------------------
 
- * [bbqsql]
- * [dbpwaudit]
- * [hexorbase]
- * [jsql]
- * [mdb-export]
+ * [bbqsql](../tools/bbqsql.md)
+ * [dbpwaudit](../tools/dbpwaudit.md)
+ * [hexorbase](../tools/hexorbase.md)
+ * [mdb-export](../tools/mdb-export.md)
  * [mdb-hexdump]
  * [mdb-parsecsv]
  * [mdb-sql]
