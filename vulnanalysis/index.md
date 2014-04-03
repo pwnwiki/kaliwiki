@@ -19,7 +19,7 @@ Database Assessment
  * [mdb-hexdump](../tools/mdb-dump.md)
  * [mdb-parsecsv](../tools/mdb-parsecsv.md)
  * [mdb-sql](../tools/mdb-sql)
- * [mdb-tables]
+ * [mdb-tables](../tools/mdb-tables)
  * [oscanner]
  * [sidguesser]
  * [sqldict]
