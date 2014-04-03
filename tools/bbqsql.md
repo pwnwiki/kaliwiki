@@ -66,9 +66,4 @@ Example Usage
 
 Links
 -------
-
-
-    About
-
-    BBQSQL version 1.0
-    https://github.com/Neohapsis/bbqsql
+ * [BBQSQL version 1.0](https://github.com/Neohapsis/bbqsql)
