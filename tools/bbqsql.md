@@ -2,7 +2,6 @@
 
 Notes
 -------
-```
 https://github.com/Neohapsis/bbqsql/blob/master/README.md
 ```
 
@@ -46,7 +45,6 @@ https://github.com/Neohapsis/bbqsql/blob/master/README.md
 
     Special thanks to David Kennedy, Kenneth Reitz, Neohapsis, Wikipedia, and
     everyone who has helped file bug fixes.  Oh, and ribs.  Mmmm ribs! 
-```
 
 
 
