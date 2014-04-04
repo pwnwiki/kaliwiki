@@ -16,10 +16,10 @@ Database Assessment
  * [dbpwaudit](../tools/dbpwaudit.md)
  * [hexorbase](../tools/hexorbase.md)
  * [mdb-export](../tools/mdb-export.md)
- * [mdb-hexdump]
- * [mdb-parsecsv]
- * [mdb-sql]
- * [mdb-tables]
+ * [mdb-hexdump](../tools/mdb-dump.md)
+ * [mdb-parsecsv](../tools/mdb-parsecsv.md)
+ * [mdb-sql](../tools/mdb-sql)
+ * [mdb-tables](../tools/mdb-tables)
  * [oscanner]
  * [sidguesser]
  * [sqldict]
