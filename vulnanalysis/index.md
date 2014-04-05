@@ -18,15 +18,15 @@ Database Assessment
  * [mdb-export](../tools/mdb-export.md)
  * [mdb-hexdump](../tools/mdb-dump.md)
  * [mdb-parsecsv](../tools/mdb-parsecsv.md)
- * [mdb-sql](../tools/mdb-sql)
- * [mdb-tables](../tools/mdb-tables)
- * [oscanner]
- * [sidguesser]
- * [sqldict]
- * [sqlmap]
- * [sqlninja]
- * [sqlsus]
- * [tnscmd10g]
+ * [mdb-sql](../tools/mdb-sql.md)
+ * [mdb-tables](../tools/mdb-tables.md)
+ * [oscanner](../tools/oscanner.md)
+ * [sidguesser](../tools/sidguess.md)
+ * [sqldict](../tools/sqldict.md)
+ * [sqlmap](../tools/sqlmap.md)
+ * [sqlninja](../tools/sqlninja.md)
+ * [sqlsus](../tools/sqlsus.md)
+ * [tnscmd10g](../tools/tnscmd10g.md)
 
 Fuzzing Tools
 -------------
