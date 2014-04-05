@@ -33,12 +33,12 @@ Fuzzing Tools
 
  * [bed](../tools/bed.md)
  * [fuzz_ip6](../tools/fuzz_ip6.md)
- * [ohrwurm]
- * [powerfuzzer]
- * [sfuzz]
- * [siparmyknife]
- * [spike-generic_chunked]
- * [spike-generic_listen_tcp]
+ * [ohrwurm](../tools/ohrwurm.md)
+ * [powerfuzzer](../tools/powerfuzzer.md)
+ * [sfuzz](../tools/sfuzz.md)
+ * [siparmyknife](../tools/siparmyknife.md)
+ * [spike-generic_chunked](../tools/generic_chunked.md)
+ * [spike-generic_listen_tcp](../tools/generic_listen_tcp.md)
  * [spike-generic_send_tcp]
  * [spike-generic_send_udp]
 
