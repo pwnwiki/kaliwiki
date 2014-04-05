@@ -39,8 +39,8 @@ Fuzzing Tools
  * [siparmyknife](../tools/siparmyknife.md)
  * [spike-generic_chunked](../tools/generic_chunked.md)
  * [spike-generic_listen_tcp](../tools/generic_listen_tcp.md)
- * [spike-generic_send_tcp]
- * [spike-generic_send_udp]
+ * [spike-generic_send_tcp](../tools/generic_send_tcp.md)
+ * [spike-generic_send_udp](../tools/generic_send_udp.md)
 
 Misc Scanners
 -------------
