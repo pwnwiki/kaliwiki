@@ -21,6 +21,7 @@ Curators:
   * [@mubix](https://twitter.com/mubix) [gimmick:TwitterFollow](@mubix)
   * [@webbreacher](https://twitter.com/webbreacher) [gimmick:TwitterFollow](@webbreacher)
   * [@t1nkerduck](https://twitter.com/t1nkerduck) [gimmick:TwitterFollow](@t1nkerduck)
+  * [@eid010n](https://twitter.com/eid010n) [gimmick:TwitterFollow](@eid010n)
 
   
 If you would like to become a curator, please contact [mubix@hak5.org](mailto:mubix@hak5.org)
