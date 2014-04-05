@@ -31,8 +31,8 @@ Database Assessment
 Fuzzing Tools
 -------------
 
- * [bed]
- * [fuzz_ip6]
+ * [bed](../tools/bed.md)
+ * [fuzz_ip6](../tools/fuzz_ip6.md)
  * [ohrwurm]
  * [powerfuzzer]
  * [sfuzz]
