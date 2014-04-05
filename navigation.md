@@ -2,7 +2,7 @@
 
 [Home](index.md)
 
-[Categories]()
+[Menu Categories]()
 
   * [Information Gathering](infogathering/index.md)
   * [Vulnerability Analysis](vulnanalysis/index.md)
@@ -19,6 +19,9 @@
   * [Reporting Tools](reporting/index.md)
   * [System Services](systemservices/index.md)
   
+[Tools]()
+  * [Tools](tools/index.md)
+
 [References]()
 
   * [temp](references/temp.md)
