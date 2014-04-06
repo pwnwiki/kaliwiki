@@ -45,12 +45,11 @@ Fuzzing Tools
 Misc Scanners
 -------------
 
- * [golismero]
- * [lynis]
- * [nikto]
+ * [golismero](../tools/golismero.py.md)
+ * [lynis](../tools/lynis.md)
+ * [nikto](../tools/nikto.md)
  * [nmap](../tools/nmap.md)
- * [unix-privesc-check]
- * [zenmap](../tools/zenmap.md)
+ * [unix-privesc-check](../tools/unix-privesc-check.md)
 
 Open Source Assessment
 ----------------------
