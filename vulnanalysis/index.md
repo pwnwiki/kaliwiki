@@ -54,8 +54,8 @@ Misc Scanners
 Open Source Assessment
 ----------------------
 
- * [casefile]
- * [maltego]
+ * [casefile](../tools/casefile.md)
+ * [maltego](../toools/maltego.md)
 
 OpenVAS
 -------
