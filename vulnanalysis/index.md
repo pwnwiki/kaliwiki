@@ -60,9 +60,9 @@ Open Source Assessment
 OpenVAS
 -------
 
- * [openvas check setup]
- * [openvas feedupdate]
- * [openvas-gsd]
- * [openvas initial setup]
- * [openvas start]
- * [openvas stop]
+ * [openvas check setup](../tools/openvas-check-setup.md)
+ * [openvas feed update](../tools/openvas-feed-update.md)
+ * [openvas-gsd](../tools/gsd.md)
+ * [openvas initial setup](../tools/openvas-setup.md)
+ * [openvas start](../tools/openvas-start.md)
+ * [openvas stop](../tools/openvas-stop.md)
