@@ -13,7 +13,7 @@ Attention: The support for Greenbone Security Desktop is phased out, Greenbone O
 Help Text
 -------
 ```
-Text output goes here
+This is a GUI tool
 ```
 
 Example Usage
