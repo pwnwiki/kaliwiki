@@ -18,7 +18,7 @@ Designed and coded to be modular and extendable. Adding new checks should simply
 Help Text
 -------
 ```
-Text output goes here
+GUI Tool
 ```
 
 Example Usage
