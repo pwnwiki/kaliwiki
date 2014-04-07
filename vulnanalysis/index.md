@@ -45,7 +45,7 @@ Fuzzing Tools
 Misc Scanners
 -------------
 
- * [golismero](../tools/golismero.py.md)
+ * [golismero](../tools/golismero.md)
  * [lynis](../tools/lynis.md)
  * [nikto](../tools/nikto.md)
  * [nmap](../tools/nmap.md)
