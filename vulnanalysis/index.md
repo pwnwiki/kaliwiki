@@ -4,7 +4,7 @@ Cisco Tools
 -----------
 
  * [cisco-auditing-tool](../tools/CAT.md)
- * [cisco-global-exploiter] (../tools/cge.pl.md)
+ * [cisco-global-exploiter](../tools/cge.md)
  * [cisco-ocs](../tools/ocs.md)
  * [cisco-torch](../tools/cisco-torch.md)
  * [yersinia](../tools/yersinia.md)

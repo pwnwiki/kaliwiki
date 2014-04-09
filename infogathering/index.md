@@ -125,9 +125,9 @@ SNMP Analysis
 
  * [braa](../tools/braa.md)
  * [cisco-auditing-tool](../tools/CAT.md)
- * [cisco-torch](../tools/cisco-torch.pl.md)
- * [cisco-router-config](../tools/cisco-router-config.pl.md)
- * [merge-router-config](../tools/merge-router-config.pl.md)
+ * [cisco-torch](../tools/cisco-torch.md)
+ * [cisco-router-config](../tools/cisco-router-config.md)
+ * [merge-router-config](../tools/merge-router-config.md)
  * [nmap](../tools/nmap.md)
  * [onesixtyone](../tools/onesixtyone.md)
  * [snmp-check](../tools/snmpcheck.md)
