@@ -1,6 +1,8 @@
-# Kali Linux Documentation Project
+# Unofficial Kali Documentation Project
 
 - - - - - - 
+
+KALI LINUX ™ is a trademark of Offensive Security.
 
 ### Live Online Copy: (soon to come)
 
