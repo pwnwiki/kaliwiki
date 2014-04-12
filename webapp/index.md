@@ -1,11 +1,51 @@
 # Web Applications
 
-Category 1
+CMS Identification
 -----------
 
- * [tool 1](../tools/foo.md)
- * [tool 2](../tools/foo.md)
- * [tool 3](../tools/foo.md)
- * [tool 4](../tools/foo.md)
- * [tool 5](../tools/foo.md)
+ * [blindelephant](../tools/foo.md)
+ * [plecost](../tools/foo.md)
+ * [wpscan](../tools/foo.md)
+
+Database Exploitation
+-----------
+
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+
+IDS/IPS Identification
+-----------
+
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+
+Web Application Fuzzers
+-----------
+
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+
+Web Application Proxies
+-----------
+
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+
+Web Crawlers
+-----------
+
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+
+Web VUlnerability Scanners
+-----------
+
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
+ * [tool](../tools/foo.md)
 
