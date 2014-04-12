@@ -2,6 +2,8 @@
 
 - - - - - - 
 
+KALI LINUX ™ is a trademark of Offensive Security.
+
 ### Live Online Copy: (soon to come)
 
 You can find a copy of the project online at: 
