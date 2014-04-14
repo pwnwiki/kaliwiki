@@ -3,23 +3,22 @@
 CMS Identification
 -----------
 
- * [blindelephant](../tools/foo.md)
- * [plecost](../tools/foo.md)
- * [wpscan](../tools/foo.md)
+ * [blindelephant](../tools/blindelephant.md)
+ * [plecost](../tools/plecost.md)
+ * [wpscan](../tools/wpscan.md)
 
 Database Exploitation
 -----------
 
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
+ * [bbqsql](../tools/bbqsql.md)
+ * [sqlninja](../tools/sqlninja.md)
+ * [sqlsus](../tools/sqlsus.md)
 
 IDS/IPS Identification
 -----------
 
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
+ * [ua-tester](../tools/UATester.md)
+
 
 Web Application Fuzzers
 -----------
