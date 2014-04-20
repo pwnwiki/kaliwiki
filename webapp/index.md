@@ -46,9 +46,15 @@ Web Application Proxies
 Web Crawlers
 -----------
 
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
+ * [apache-users](../tools/apache-users.md)
+ * [burpsuite](../tools/burpsuite.md)
+ * [cutycapt](../tools/cutycapt.md)
+ * [dirb](../tools/dirb.md)
+ * [dirbuster](../tools/dirbuster.md)
+ * [owasp-zap](../tools/owasp-zap.md)
+ * [vega](../tools/vega.md)
+ * [webscarab](../tools/webscarab.md)
+ * [webslayer](../tools/webslayer.md)
 
 Web VUlnerability Scanners
 -----------
