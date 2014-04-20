@@ -36,9 +36,12 @@ Web Application Fuzzers
 Web Application Proxies
 -----------
 
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
+ * [burpsuite](../tools/burpsuite.md)
+ * [owasp-zap](../tools/owasp-zap.md)
+ * [paros](../tools/paros.md)
+ * [proxystrike](../tools/proxystrike.md)
+ * [vega](../tools/vega.md)
+ * [webscarab](../tools/webscarab.md)
 
 Web Crawlers
 -----------
