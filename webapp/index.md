@@ -56,7 +56,7 @@ Web Crawlers
  * [webscarab](../tools/webscarab.md)
  * [webslayer](../tools/webslayer.md)
 
-Web VUlnerability Scanners
+Web Vulnerability Scanners
 -----------
 
  * [burpsuite](../tools/burpsuite.md)
