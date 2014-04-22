@@ -23,16 +23,25 @@ IDS/IPS Identification
 Web Application Fuzzers
 -----------
 
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
+ * [burpsuite](../tools/burpsuite.md)
+ * [owasp-zap](../tools/owasp-zap.md)
+ * [powerfuzzer](../tools/powerfuzzer.md)
+ * [webscarab](../tools/webscarab.md)
+ * [webslayer](../tools/webslayer.md)
+ * [websploit](../tools/websploit.md)
+ * [wfuzz](../tools/wfuzz.md)
+ * [xsser](../tools/xsser.md)
+
 
 Web Application Proxies
 -----------
 
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
- * [tool](../tools/foo.md)
+ * [burpsuite](../tools/burpsuite.md)
+ * [owasp-zap](../tools/owasp-zap.md)
+ * [paros](../tools/paros.md)
+ * [proxystrike](../tools/proxystrike.md)
+ * [vega](../tools/vega.md)
+ * [webscarab](../tools/webscarab.md)
 
 Web Crawlers
 -----------
