@@ -21,8 +21,10 @@ We realize that everyone has their favorite commands they run. Is your go-to con
 - - - - - -
 Curators:
 
-  * [@t1nkerduck](https://twitter.com/t1nkerduck) [gimmick:TwitterFollow](@t1nkerduck)
   * [@mubix](https://twitter.com/mubix) [gimmick:TwitterFollow](@mubix)
+  * [@webbreacher](https://twitter.com/webbreacher) [gimmick:TwitterFollow](@webbreacher)
+  * [@eid010n](https://twitter.com/eid010n) [gimmick:TwitterFollow](@eid010n)
+  * [@t1nkerduck](https://twitter.com/t1nkerduck) [gimmick:TwitterFollow](@t1nkerduck)
   
 If you would like to become a curator, please contact [mubix@hak5.org](mailto:mubix@hak5.org)
 
