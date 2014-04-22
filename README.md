@@ -4,9 +4,10 @@
 
 KALI LINUX ™ is a trademark of Offensive Security.
 
-### Live Online Copy: (soon to come)
+### Live Online Copy:
 
-You can find a copy of the project online at: 
+You can find a copy of the project online at: http://pwnwiki.io/kaliwiki
+
 ### Offline Use:
 
   1. Clone the repository or pull the archive ([download zip](https://github.com/pwnwiki/kaliwiki/archive/master.zip)) of the repo
