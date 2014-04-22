@@ -79,3 +79,5 @@ Example Usage
 Links
 -------
 
+http://golismero-project.com/
+https://github.com/golismero/golismero
