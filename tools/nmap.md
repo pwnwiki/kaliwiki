@@ -122,10 +122,11 @@ EXAMPLES:
 SEE THE MAN PAGE (http://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 
 ```
+
 Example Usage
 -------
 # nmap -O -v scanme.nmap.org
-
+```
 Starting Nmap ( http://nmap.org )
 Nmap scan report for scanme.nmap.org (74.207.244.221)
 Not shown: 994 closed ports
@@ -148,9 +149,10 @@ IP ID Sequence Generation: All zeros
 Read data files from: /usr/local/bin/../share/nmap
 Nmap done: 1 IP address (1 host up) scanned in 5.58 seconds
            Raw packets sent: 1063 (47.432KB) | Rcvd: 1031 (41.664KB)
+```           
            
 # nmap -A -T4 -p- -oX XMLoutput.xml scanme.nmap.org
-
+```
 Starting Nmap 6.45 ( http://nmap.org ) at 2014-04-21 22:16 HST
 Warning: 74.207.244.221 giving up on port because retransmission cap hit (6).
 Nmap scan report for scanme.nmap.org (74.207.244.221)
@@ -179,10 +181,10 @@ HOP RTT      ADDRESS
 
 OS and Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 1274.85 seconds
-
+```
 
 # nmap -PR -sn -n 192.168.1.0/24
-
+```
 Starting Nmap 6.45 ( http://nmap.org ) at 2014-04-21 22:17 HST
 Nmap scan report for 192.168.1.55
 Host is up (0.00020s latency).
@@ -214,9 +216,9 @@ MAC Address: 28:16:2E:73:78:C1 (2Wire)
 Nmap scan report for 192.168.1.75
 Host is up.
 Nmap done: 256 IP addresses (10 hosts up) scanned in 3.56 seconds
-
+```
 # nmap -p 80 --script http-title -Pn -n google.com
-
+```
 Starting Nmap 6.45 ( http://nmap.org ) at 2014-04-21 22:19 HST
 Nmap scan report for google.com (72.234.39.57)
 Host is up (0.014s latency).
@@ -227,7 +229,7 @@ PORT   STATE SERVICE
 |_Requested resource was http://www.google.com/
 
 Nmap done: 1 IP address (1 host up) scanned in 0.62 seconds
-
+```
 Links
 -------
 http://nmap.org/
