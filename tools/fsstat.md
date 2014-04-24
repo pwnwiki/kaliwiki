@@ -19,7 +19,7 @@ usage: fsstat [-tvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoffset
 
 Example Usage
 -------
-Example from wiki.sleithkit.org [2]
+Example from wiki.sleuthkit.org [2]
 ```
     # fsstat images/hda1.dd
     FILE SYSTEM INFORMATION

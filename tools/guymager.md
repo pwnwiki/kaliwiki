@@ -7,8 +7,7 @@ GUYMAGER is a Linux-based GUI forensic imaging tool
 Help Text
 -------
 ```
-
-
+A GUI based forensic imaging tool.
 ```
 
 Example Usage

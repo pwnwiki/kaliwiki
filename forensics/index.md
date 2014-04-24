@@ -107,7 +107,7 @@ Forensic Imaging Tools
  * [guymager](../tools/guymager.md)
  * [img_cat](../tools/img_cat.md)
  * [img_stat](../tools/img_stat.md)
- * [mmls](../tools/mmls.md) <------ I STOPPED HERE !!!
+ * [mmls](../tools/mmls.md)
  * [mmstat](../tools/mmstat.md)
  * [tsk_gettimes](../tools/tsk_gettimes.md)
 

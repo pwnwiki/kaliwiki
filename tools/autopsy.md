@@ -7,7 +7,13 @@ Autopsy® is a digital forensics platform and graphical interface to The Sleuth 
 Help Text
 -------
 ```
-
+usage: /usr/bin/autopsy [-c] [-C] [-d evid_locker] [-i device filesystem mnt] [-p port] [remoteaddr]
+  -c: force a cookie in the URL
+  -C: force NO cookie in the URL
+  -d dir: specify the evidence locker directory
+  -i device filesystem mnt: Specify info for live analysis
+  -p port: specify the server port (default: 9999)
+  remoteaddr: specify the host with the browser (default: localhost)
 ```
 
 Example Usage

@@ -5,7 +5,8 @@ Notes
 
 Help Text
 -------
-`usage: ffind [-aduvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoffset] image [images] inode
+```
+usage: ffind [-aduvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoffset] image [images] inode
 	-a: Find all occurrences
 	-d: Find deleted entries ONLY
 	-u: Find undeleted entries ONLY
@@ -15,7 +16,6 @@ Help Text
 	-o imgoffset: The offset of the file system in the image (in sectors)
 	-v: Verbose output to stderr
 	-V: Print version
-``
 
 ```
 

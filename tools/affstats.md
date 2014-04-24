@@ -1,4 +1,4 @@
-# Template placeholder
+# affstats
 
 Notes
 -------
