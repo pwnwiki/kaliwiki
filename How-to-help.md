@@ -12,7 +12,7 @@ We have two main groups of people helping this project move forward:
     1. http://blog.udacity.com/2013/10/get-started-with-open-source-projects_8.html
 1. You can go to the [Issues Page](https://github.com/pwnwiki/pwnwiki.github.io/issues) to find out topics we'd like people to write up and add to the project or add your own!
 1. If you are looking for a place to start with a small change, start with filling out one of the sections of the tools located at https://github.com/pwnwiki/kaliwiki/tree/gh-pages/tools page. Links and Example Usage almost always could use more work.
-1. If you are still lost, please reach out to @Eidolon, and he will walk you through what you need to do.
+1. If you are still lost, please reach out to @Eid010n, and he will walk you through what you need to do.
 
 ## General Notes
 1. Please make pull requests of any changes. If you have commit rights to the PwnWiki content, please wait 24 hours before committing your own pull request, but feel free to have another committer review and merge your request sooner.
