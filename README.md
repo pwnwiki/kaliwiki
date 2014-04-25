@@ -4,12 +4,13 @@
 
 KALI LINUX ™ is a trademark of Offensive Security.
 
-### Live Online Copy: (soon to come)
+### Live Online Copy:
 
-You can find a copy of the project online at: 
+You can find a copy of the project online at: http://kali.pwnwiki.io
+
 ### Offline Use:
 
-  1. Clone the repository or pull the archive ([download zip](https://github.com/pwnwiki/kaliwiki/archive/master.zip)) of the repo
+  1. Clone the repository or pull the archive ([download zip](https://github.com/pwnwiki/kaliwiki/archive/gh-pages.zip)) of the repo
   2. Open index.html
   3. Most modern browsers don't allow the access of local files from a locally loaded HTML file. On Windows you can use [Mongoose Tiny](http://cesanta.com/downloads.html) or [HFS](http://www.rejetto.com/hfs/) to host the files locally. On OSX and Linux `python -m SimpleHTTPServer` seems to work just fine.
 
