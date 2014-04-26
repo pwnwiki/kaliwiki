@@ -3,9 +3,8 @@
 GPU Tools
 -----------
 
- * [tool](../tools/_template.md)
- * [tool](../tools/_template.md)
- * [tool](../tools/_template.md)
+ * [oclhashcat](../tools/oclhashcat.md)
+ * [pyrit](../tools/pyrit.md)
 
 Offline Attacks
 -----------
