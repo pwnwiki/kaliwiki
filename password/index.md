@@ -9,9 +9,9 @@ GPU Tools
 Offline Attacks
 -----------
 
- * [cachedump](../tools/_template.md)
+ * [cachedump](../tools/cachedump.md)
  * [chntpw](../tools/chntpw.md)
- * [cmospwd](../tools/_template.md)
+ * [cmospwd](../tools/cmospwd.md)
  * [crunch](../tools/_template.md)
  * [dictstat](../tools/_template.md)
  * [fcrackzip](../tools/_template.md)
