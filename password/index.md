@@ -12,7 +12,7 @@ Offline Attacks
  * [cachedump](../tools/cachedump.md)
  * [chntpw](../tools/chntpw.md)
  * [cmospwd](../tools/cmospwd.md)
- * [crunch](../tools/_template.md)
+ * [crunch](../tools/crunch.md)
  * [dictstat](../tools/_template.md)
  * [fcrackzip](../tools/_template.md)
  * [hashcat](../tools/_template.md)
