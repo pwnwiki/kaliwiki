@@ -15,7 +15,7 @@ Offline Attacks
  * [crunch](../tools/crunch.md)
  * [dictstat](../tools/dictstat.md)
  * [fcrackzip](../tools/fcrackzip.md)
- * [hashcat](../tools/_template.md)
+ * [hashcat](../tools/hashcat.md)
  * [hash-identifier](../tools/_template.md)
  * [john](../tools/_template.md)
  * [lsadump](../tools/_template.md)
