@@ -2,11 +2,7 @@
 
 Notes
 -------
-General information about the tool.
-
-What would you use this tool for?
-Why would you use it?
-
+Hashcat is the self-proclaimed world’s fastest CPU-based password recovery tool. 
 
 Help Text
 -------
