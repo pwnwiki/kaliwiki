@@ -17,7 +17,7 @@ Offline Attacks
  * [fcrackzip](../tools/fcrackzip.md)
  * [hashcat](../tools/hashcat.md)
  * [hash-identifier](../tools/_template.md)
- * [john](../tools/_template.md)
+ * [john](../tools/john.md)
  * [lsadump](../tools/_template.md)
  * [maskgen](../tools/_template.md)
  * [oclhashcat](../tools/oclhashcat.md)
