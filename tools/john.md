@@ -1,4 +1,4 @@
-# Tool Name
+# john (john the ripper)
 
 Notes
 -------
