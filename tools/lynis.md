@@ -2,6 +2,7 @@
 
 Notes
 -------
+Lynis is an open source security auditing tool. Primary goal is to help users with auditing and hardening of Unix and Linux based systems.
 
 Help Text
 -------
@@ -46,7 +47,12 @@ Exiting..
 
 Example Usage
 -------
+`
+lynis --check-all --quick
+`
 
 Links
 -------
+[Project details](http://cisofy.com/lynis/)
+
 
