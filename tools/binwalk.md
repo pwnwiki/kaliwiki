@@ -78,7 +78,12 @@ General Options:
 
 Example Usage
 -------
+```
+$ binwalk -Mre firmware.bin
 
+$ binwalk --3D firmware.bin
+
+```
 Links
 -------
 [1] https://github.com/devttys0/binwalk
