@@ -24,7 +24,7 @@ Offline Attacks
  * [ophcrack](../tools/ophcrack.md)
  * [ophcrack-cli](../tools/ophcrack-cli.md)
  * [policygen](../tools/policygen.md)
- * [pwdump](../tools/_template.md)
+ * [pwdump](../tools/pwdump.md)
  * [pyrit](../tools/pyrit.md)
  * [rainbowcrack](../tools/_template.md)
  * [rcracki_mt](../tools/_template.md)
