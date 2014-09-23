@@ -2,6 +2,7 @@
 
 Notes
 -------
+Wireshark is a free and open-source packet analyzer.
 
 Help Text
 -------
@@ -79,4 +80,5 @@ Example Usage
 
 Links
 -------
+[Wireshark Wiki](http://wiki.wireshark.org/FrontPage)
 
