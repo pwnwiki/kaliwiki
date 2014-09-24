@@ -28,7 +28,7 @@ Offline Attacks
  * [pyrit](../tools/pyrit.md)
  * [rainbowcrack](../tools/rainbowcrack.md)
  * [rcracki_mt](../tools/rcracki_mt.md)
- * [rsmangler](../tools/_template.md)
+ * [rsmangler](../tools/rsmangler.md)
  * [samdump2](../tools/_template.md)
  * [sipcrack](../tools/_template.md)
  * [sucrack](../tools/_template.md)
