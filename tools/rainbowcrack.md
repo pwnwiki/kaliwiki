@@ -134,28 +134,34 @@ rtgen md5 loweralpha-numeric 1 7 5 3800 33554432 0
 ```
 Options:
 
-|hash_algorithm	|Rainbow table is hash algorithm specific. Rainbow table for a certain hash algorithm only helps to crack hashes of that type.|
+*hash_algorithm*	Rainbow table is hash algorithm specific. Rainbow table for a certain hash algorithm only helps to crack hashes of that type.
 The rtgen program natively support lots of hash algorithms like lm, ntlm, md5, sha1, mysqlsha1, halflmchall, ntlmchall, oracle-SYSTEM and md5-half.
-In the example above, we generate md5 rainbow tables that speed up cracking of md5 hashes.|
-|charset	|The charset includes all possible characters for the plaintext.
+In the example above, we generate md5 rainbow tables that speed up cracking of md5 hashes.
+
+*charset*	The charset includes all possible characters for the plaintext.
 "loweralpha-numeric" stands for "abcdefghijklmnopqrstuvwxyz0123456789", which is defined in configuration file charset.txt.
-|plaintext_len_min
-plaintext_len_max|
-These two parameters limit the plaintext length range of the rainbow table.
+
+*plaintext_len_min* or *plaintext_len_max* These two parameters limit the plaintext length range of the rainbow table.
 In the example above, the plaintext length range is 1 to 7. So plaintexts like "a" and "abcdefg" are likely contained in the rainbow table generated. But plaintext "abcdefgh" with length 8 will not be contained.|
-|table_index1	|The table_index parameter selects the reduction function.
-Rainbow table with different table_index parameter uses different reduction function.|
-|chain_len1	|This is the rainbow chain length. Longer rainbow chain stores more plaintexts and requires longer time to generate.|
-|chain_num1	|Number of rainbow chains to generate.
-Rainbow table is simply an array of rainbow chains. Size of each rainbow chain is 16 bytes.|
-part_index	|To store a large rainbow table in many smaller files, use different number in this parameter for each part and keep all other parameters identical.|
+
+*table_index1*	The table_index parameter selects the reduction function.
+Rainbow table with different table_index parameter uses different reduction function.
+
+*chain_len1*	This is the rainbow chain length. Longer rainbow chain stores more plaintexts and requires longer time to generate.
+
+*chain_num1*	Number of rainbow chains to generate.
+Rainbow table is simply an array of rainbow chains. Size of each rainbow chain is 16 bytes.
+
+*part_index*	To store a large rainbow table in many smaller files, use different number in this parameter for each part and keep all other parameters identical.|
 
 There are many rainbow table characteristics determined implicitly by table generation parameters:
 
-|Table Size	|With .rt rainbow table format, file size of a rainbow table equals to chain_num parameter multiplied by 16.|
-|Key Space	|Key space is the number of possible plaintexts, calculated based on number of characters in charset and plaintext length range parameters.
-In the example above, key space is 361 + 362 + 363 + 364 + 365 + 366 + 367 = 80603140212|
-|Success Rate	|The time-memory tradeoff algorithm is a probabilistic algorithm.
+*Table Size*	With .rt rainbow table format, file size of a rainbow table equals to chain_num parameter multiplied by 16.
+
+*Key Space*	Key space is the number of possible plaintexts, calculated based on number of characters in charset and plaintext length range parameters.
+In the example above, key space is 361 + 362 + 363 + 364 + 365 + 366 + 367 = 80603140212
+
+*Success Rate*	The time-memory tradeoff algorithm is a probabilistic algorithm.
 Whatever the parameters are selected, there always exist many plaintexts (within the selected charset and plaintext length range) missing from the rainbow table generated.
 In the example above, success rate is 99.9% with all 6 rainbow tables.
 Success rate is determined by all table generation parameters except the hash_algorithm parameter.|
