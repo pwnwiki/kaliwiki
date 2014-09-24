@@ -27,7 +27,7 @@ Offline Attacks
  * [pwdump](../tools/pwdump.md)
  * [pyrit](../tools/pyrit.md)
  * [rainbowcrack](../tools/rainbowcrack.md)
- * [rcracki_mt](../tools/_template.md)
+ * [rcracki_mt](../tools/rcracki_mt.md)
  * [rsmangler](../tools/_template.md)
  * [samdump2](../tools/_template.md)
  * [sipcrack](../tools/_template.md)
