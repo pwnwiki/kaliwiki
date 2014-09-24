@@ -2,10 +2,38 @@
 
 Notes
 -------
-General information about the tool.
+RSMangler will take a wordlist and perform various manipulations on it similar to those done by John the Ripper the main difference being that it will first take the input words and generate all permutations and the acronym of the words (in order they appear in the file) before it applies the rest of the mangles, for example given the following three input words:
 
-What would you use this tool for?
-Why would you use it?
+* freds
+* national
+* bank
+
+RSMangler would generate the following initial word list:
+
+* freds
+* national
+* bank
+* fredsnational
+* fredsbank
+* nationalfreds
+* nationalbank
+* bankfreds
+* banknational
+* fredsnationalbank
+* fredsbanknational
+* nationalfredsbank
+* nationalbankfreds
+* bankfredsnational
+* banknationalfreds
+* fnb
+
+Each of these new words is then subject to the other mangles, because of this we strongly recommend with permutations mode enabled (default) you use a very small wordlist, 3 start words create a final list containing 4245 words and 5 start words creates a list containing 91975. As a test we tried it with a few hundred words and gave up when the output file got to 3G.
+
+If you try to use a file with more than 5 words you will get a warning and the option to abort.
+
+Other mangles include adding the numbers 1 to 123 to the start and end, 01 to 09 to the start and end, various case manipulations, leet speak, word reversal, ed and ing on the end and doubling words up.
+
+The initial wordlist can either be specified as a file or can be piped in through STDIN.
 
 
 Help Text
@@ -58,5 +86,5 @@ Actual commands can go here
 
 Links
 -------
-Include a link to the tools source / github / sourceforge / etc.
-Include any links to helpful example such as videos, webpages, etc.
+* [digininja](http://digi.ninja/projects/rsmangler.php)
+* [randomstorm](https://www.randomstorm.com/resources/free-tools/rsmangler/)
