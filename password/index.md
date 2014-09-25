@@ -29,7 +29,7 @@ Offline Attacks
  * [rainbowcrack](../tools/rainbowcrack.md)
  * [rcracki_mt](../tools/rcracki_mt.md)
  * [rsmangler](../tools/rsmangler.md)
- * [samdump2](../tools/_template.md)
+ * [samdump2](../tools/samdump2.md)
  * [sipcrack](../tools/_template.md)
  * [sucrack](../tools/_template.md)
  * [truecrack](../tools/_template.md)
