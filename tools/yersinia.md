@@ -2,6 +2,7 @@
 
 Notes
 -------
+Yersinia is a network tool designed to take advantage of some weakeness in different network protocols. It pretends to be a solid framework for analyzing and testing the deployed networks and systems.
 
 Help Text
 -------
@@ -48,4 +49,7 @@ Example Usage
 
 Links
 -------
+[Yersinia official site](http://www.yersinia.net/)
+
+[Yersinia GitHub repository](https://github.com/tomac/yersinia)
 
