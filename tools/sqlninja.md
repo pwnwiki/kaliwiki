@@ -43,4 +43,5 @@ Example Usage
 
 Links
 -------
+[SQLninja](http://sqlninja.sourceforge.net/index.html)
 
