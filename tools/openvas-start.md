@@ -2,7 +2,9 @@
 
 Notes
 -------
-Start Script for openvas
+Start Script for openvas.
+
+OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution.
 
 Help Text
 -------
@@ -15,4 +17,5 @@ Example Usage
 
 Links
 -------
+[OpenVAS](http://www.openvas.org/)
 
