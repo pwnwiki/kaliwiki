@@ -2,6 +2,7 @@
 
 Notes
 -------
+The BlindElephant Web Application Fingerprinter attempts to discover the version of a web application by comparing static files at known locations against precomputed hashes for versions of those files in all available releases. The technique is fast, low-bandwidth, non-invasive, generic, and highly automatable.
 
 Help Text
 -------
@@ -35,4 +36,4 @@ Example Usage
 
 Links
 -------
-
+[Blindelephant Sourseforge project](http://blindelephant.sourceforge.net/)
