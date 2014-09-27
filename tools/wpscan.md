@@ -2,6 +2,7 @@
 
 Notes
 -------
+WPScan is a black box WordPress vulnerability scanner.
 
 Help Text
 -------
@@ -108,7 +109,18 @@ See README for further information.
 
 Example Usage
 -------
+```
+ruby wpscan.rb --url http(s)://www.yoursiteurl.com --enumerate u
+
+ruby wpscan.rb --url http(s)://www.yoursiteurl.com --wordlist passwords.lst --username admin
+```
 
 Links
 -------
+[WPScan](http://wpscan.org/)
+
+[WPScan at GitHub](https://github.com/wpscanteam/wpscan)
+
+[WPScan tutorial by Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-use-wpscan-to-test-for-vulnerable-plugins-and-themes-in-wordpress)
+
 
