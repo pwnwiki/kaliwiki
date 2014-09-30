@@ -29,7 +29,7 @@ Misc RE Tools
 * [rafind](../tools/_template.md)
 * [ragg2](../tools/_template.md)
 * [ragg2-cc](../tools/_template.md)
-* [rahash2](../tools/_template.md)
+* [rahash2](../tools/rahash2.md)
 * [rarun2](../tools/_template.md)
 * [rax2](../tools/_template.md)
 
