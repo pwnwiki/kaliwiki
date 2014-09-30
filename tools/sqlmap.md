@@ -2,6 +2,7 @@
 
 Notes
 -------
+sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers
 
 Help Text
 -------
@@ -245,4 +246,7 @@ Example Usage
 
 Links
 -------
+[SQLMap Official site](http://sqlmap.org/)
+[SQLMap GitHub Project](https://github.com/sqlmapproject/sqlmap)
+[SQLMap Demostration videos](http://www.youtube.com/user/inquisb/videos)
 
