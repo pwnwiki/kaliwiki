@@ -32,7 +32,7 @@ Offline Attacks
  * [samdump2](../tools/samdump2.md)
  * [sipcrack](../tools/sipcrack.md)
  * [sucrack](../tools/_template.md)
- * [truecrack](../tools/_template.md)
+ * [truecrack](../tools/truecrack.md)
 
 
 Online Attacks
