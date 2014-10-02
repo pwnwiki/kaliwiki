@@ -247,6 +247,10 @@ Example Usage
 Links
 -------
 [SQLMap Official site](http://sqlmap.org/)
+
 [SQLMap GitHub Project](https://github.com/sqlmapproject/sqlmap)
+
 [SQLMap Demostration videos](http://www.youtube.com/user/inquisb/videos)
+
+[SQLMap Cheatsheet](http://packetstormsecurity.com/files/download/127647/sqlmap-cheatsheet-1.0-SDB.pdf)
 
