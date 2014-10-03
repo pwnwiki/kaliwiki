@@ -2,6 +2,7 @@
 
 Notes
 -------
+Maltego - open-source intelligence and forensics software. Maltego focuses on providing a library of transforms for discovery of data from open sources, and visualizing that information in a graph format, suitable for link analysis and data mining.
 
 Help Text
 -------
@@ -39,3 +40,6 @@ Example Usage
 
 Links
 -------
+[Official site](https://www.paterva.com/web6/products/maltego.php)
+
+[Shodan Addon for Maltego](https://maltego.shodan.io/)
