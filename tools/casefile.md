@@ -2,6 +2,7 @@
 
 Notes
 -------
+CaseFile is the little brother to [Maltego](../toools/maltego.md). It targets a unique market of 'offline' analysts whose primary sources of information are not gained from the open-source intelligence side or can be programmatically queried. We see these people as investigators and analysts who are working 'on the ground', getting intelligence from other people in the team and building up an information map of their investigation.
 
 Help Text
 -------
@@ -35,3 +36,4 @@ Example Usage
 
 Links
 -------
+[Casefile](https://www.paterva.com/web6/products/casefile.php)
