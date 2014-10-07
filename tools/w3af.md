@@ -2,9 +2,7 @@
 
 Notes
 -------
-I had to install this with my version of kali
-
-Also recommended that pip is installed with the package
+w3af is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
 
 
 Help Text
@@ -32,7 +30,19 @@ For more info visit http://w3af.org/
 
 Example Usage
 -------
+```
+w3af>>> target
+w3af/config:target>>> set target http://localhost/
+w3af/config:target>>> back
+w3af>>>
+
+w3af>>> start
+```
 
 Links
 -------
+[Official site](http://w3af.org/)
 
+[w3af GitHub project](https://github.com/andresriancho/w3af/)
+
+[w3af’s documentation](http://docs.w3af.org/en/latest/)
