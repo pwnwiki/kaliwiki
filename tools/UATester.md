@@ -2,6 +2,7 @@
 
 Notes
 -------
+User Agent String Tester
 
 Help Text
 -------
