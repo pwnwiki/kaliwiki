@@ -44,7 +44,7 @@ Live Host Identification
  * [netdiscover](../tools/netdiscover.md)
  * [nmap](../tools/nmap.md)
  * [passive_discovery6](../tools/passive_discovery6.md)
- * [thcping6](../tools/tchping6.md)
+ * [thcping6](../tools/thcping6.md)
  * [wol-e](../tools/wol-e.md)
  * [xprobe2](../tools/xprobe2.md) 
  * [zenmap](../tools/zenmap.md)
