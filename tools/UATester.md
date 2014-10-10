@@ -2,6 +2,7 @@
 
 Notes
 -------
+User Agent String Tester
 
 Help Text
 -------
@@ -62,4 +63,5 @@ Example Usage
 
 Links
 -------
+[UATester Google porject](https://code.google.com/p/ua-tester/)
 
