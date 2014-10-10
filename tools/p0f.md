@@ -67,4 +67,8 @@ Example Usage
 
 Links
 -------
+[Official site](http://lcamtuf.coredump.cx/p0f3/)
 
+[p0f Wikipedia article](https://en.wikipedia.org/wiki/P0f)
+
+[p0f GitHub project](https://github.com/p0f/p0f)
