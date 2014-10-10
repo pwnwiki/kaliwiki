@@ -25,7 +25,7 @@ Misc RE Tools
 * [dex2jar](../tools/_template.md)
 * [flasm](../tools/_template.md)
 * [javasnoop](../tools/_template.md)
-* [radare2](../tools/_template.md)
+* [radare2](../tools/radare2.md)
 * [rafind](../tools/_template.md)
 * [ragg2](../tools/_template.md)
 * [ragg2-cc](../tools/_template.md)
