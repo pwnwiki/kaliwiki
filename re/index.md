@@ -4,7 +4,7 @@ Debuggers
 ---------------
 
 * [edb-debugger](../tools/_template.md)
-* [ollydbg](../tools/_template.md)
+* [ollydbg](../tools/ollydbg.md)
 
 Disassembly
 ---------------
