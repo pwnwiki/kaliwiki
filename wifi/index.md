@@ -47,7 +47,7 @@ RFID/NFC Tools
 Software Defined Radio
 ----------------------
 
-* [gnuradio-companion](../tools/_template.md)
+* [gnuradio-companion](../tools/gnu-radio-companion.md)
 * [gqrx](../tools/gqrx.md)
 * [](../tools/_template.md)
 * [](../tools/_template.md)
