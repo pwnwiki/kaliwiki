@@ -84,7 +84,7 @@ OSINT Analysis
 Route Analysis
 ------------
 
- * [Otrace](../tools/0trace.md)
+ * [0trace](../tools/0trace.md)
  * [dnmap-client](../tools/dnmap-client.md)
  * [dnmap-server](../tools/dnmap-server.md)
  * [intrace](../tools/intrace.md)
