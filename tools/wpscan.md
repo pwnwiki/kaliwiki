@@ -121,6 +121,8 @@ Links
 
 [WPScan at GitHub](https://github.com/wpscanteam/wpscan)
 
+[WPScan Vulnerability Database](https://www.wpvulndb.com/)
+
 [WPScan tutorial by Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-use-wpscan-to-test-for-vulnerable-plugins-and-themes-in-wordpress)
 
 
