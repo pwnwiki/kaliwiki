@@ -18,7 +18,7 @@
 * [wifihoney](../tools/_template.md)
 * [wifiping](../tools/_template.md)
 * [wifitap](../tools/_template.md)
-* [wifite](../tools/_template.md)
+* [wifite](../tools/wifite.md)
 
 Bluetooth Tools
 ---------------------
