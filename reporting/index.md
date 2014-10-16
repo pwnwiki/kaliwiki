@@ -8,9 +8,9 @@ Documentation
 
 Evidence Management
 --------------------
-* [casefile](../tools/_template.md)
+* [casefile](../tools/casefile.md)
 * [magictree](../tools/_template.md)
-* [maltego](../tools/_template.md)
+* [maltego](../tools/maltego.md)
 * [metagoofil](../tools/_template.md)
 * [pipal](../tools/_template.md)
 * [truecrypt](../tools/_template.md)
