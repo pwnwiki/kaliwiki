@@ -2,6 +2,9 @@
 
 Notes
 -------
+The objective of this program is to gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+
+This tool is intended to help Penetration testers in the early stages of the penetration test in order to understand the customer footprint on the Internet. It is also useful for anyone that wants to know what an attacker can see about their organization.
 
 Help Text
 -------
@@ -45,4 +48,8 @@ Example Usage
 
 Links
 -------
-[theHarvester project](http://code.google.com/p/theharvester/)
+[Official site](http://www.edge-security.com/theharvester.php)
+
+[theHarvester Google project](https://code.google.com/p/theharvester/)
+
+
