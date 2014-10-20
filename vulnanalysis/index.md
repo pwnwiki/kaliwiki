@@ -55,7 +55,7 @@ Open Source Assessment
 ----------------------
 
  * [casefile](../tools/casefile.md)
- * [maltego](../toools/maltego.md)
+ * [maltego](../tools/maltego.md)
 
 OpenVAS
 -------
