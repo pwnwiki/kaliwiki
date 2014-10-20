@@ -13,7 +13,7 @@ Disassembly
 * [rabin2](../tools/_template.md)
 * [radiff2](../tools/_template.md)
 * [rasm2](../tools/_template.md)
-* [recstudio](../tools/_template.md)
+* [recstudio](../tools/recstudio.md)
 * [recstudio-cli](../tools/_template.md)
 
 Misc RE Tools
