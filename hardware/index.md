@@ -11,5 +11,5 @@ Android Tools
 Arduino Tools
 ------------
 
- * [arduino](../tools/_template.md)
+ * [arduino](../tools/arduino.md)
  
