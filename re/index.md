@@ -19,12 +19,12 @@ Disassembly
 Misc RE Tools
 ---------------
 
-* [apktool](../tools/_template.md)
+* [apktool](../tools/apktool.md)
 * [clang](../tools/_template.md)
 * [clang++](../tools/_template.md)
 * [dex2jar](../tools/_template.md)
-* [flasm](../tools/_template.md)
-* [javasnoop](../tools/_template.md)
+* [flasm](../tools/flasm.md)
+* [javasnoop](../tools/javasnoop.md)
 * [radare2](../tools/radare2.md)
 * [rafind](../tools/_template.md)
 * [ragg2](../tools/_template.md)
