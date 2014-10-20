@@ -26,3 +26,5 @@ Links
 [Radare2 GitHub project](https://github.com/radare/radare2)
 
 [radare2 book](http://maijin.github.io/radare2book/)
+
+[The Official Radare Blog](http://radare.today/)
