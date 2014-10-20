@@ -2,6 +2,7 @@
 
 Notes
 -------
+Metagoofil is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company.
 
 Help Text
 -------
@@ -38,3 +39,6 @@ Example Usage
 
 Links
 -------
+[Official site](http://www.edge-security.com/metagoofil.php)
+
+[Metagoofil Google project](https://code.google.com/p/metagoofil/)
