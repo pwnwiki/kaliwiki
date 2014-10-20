@@ -24,4 +24,4 @@ WLAN Stress Testing
 -----------------------
 
 * [mdk3](../tools/_template.md)
-* [reaver](../tools/_template.md)
+* [reaver](../tools/reaver.md)
