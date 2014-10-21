@@ -3,7 +3,7 @@
 Android Tools
 ------------
 
- * [apktool](../tools/_template.md)
+ * [apktool](../tools/apktool.md)
  * [baksmali](../tools/_template.md)
  * [dex2jar](../tools/_template.md)
  * [smali](../tools/_template.md)
