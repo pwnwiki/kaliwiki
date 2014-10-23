@@ -18,7 +18,7 @@ VoIP Stress Testing
 Web Stress Testing
 -----------------------
 
-* [thc-ssl-dos](../tools/_template.md)
+* [thc-ssl-dos](../tools/thc-ssl-dos.md)
 
 WLAN Stress Testing
 -----------------------
