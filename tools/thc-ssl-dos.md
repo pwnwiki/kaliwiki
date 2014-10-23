@@ -20,6 +20,21 @@ to trigger thousands of renegotiations via single TCP connection.
 Help Text
 -------
 ```
+     ______________ ___  _________
+     \__    ___/   |   \ \_   ___ \
+       |    | /    ~    \/    \  \/
+       |    | \    Y    /\     \____
+       |____|  \___|_  /  \______  /
+                     \/          \/
+            http://www.thc.org
+
+          Twitter @hackerschoice
+
+Greetingz: the french underground
+
+./thc-ssl-dos [options] <ip> <port>
+  -h      help
+  -l <n>  Limit parallel connections [default: 400]
 
 
 
