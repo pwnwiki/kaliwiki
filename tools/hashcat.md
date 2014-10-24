@@ -1,4 +1,4 @@
-# Tool Name
+# hashcat
 
 Notes
 -------
