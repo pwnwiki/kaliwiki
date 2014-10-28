@@ -2,6 +2,7 @@
 
 Notes
 -------
+A tool for automated MITM attacks on SSL connections.
 
 Help Text
 -------
@@ -37,4 +38,9 @@ Example Usage
 
 Links
 -------
+[Author's Guide](http://www.thoughtcrime.org/software/sslsniff/)
+
+[SSLsniff GitHub project](https://github.com/moxie0/sslsniff)
+
+[Ubuntu Trusty SSLsniff manpage](http://manpages.ubuntu.com/manpages/trusty/man1/sslsniff.1.html)
 
