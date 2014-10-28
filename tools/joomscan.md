@@ -2,6 +2,7 @@
 
 Notes
 -------
+OWASP Joomla Vulnerability Scanner Project
 
 Help Text
 -------
@@ -71,4 +72,7 @@ Example Usage
 
 Links
 -------
+[Joomscan Sourceforge project](http://sourceforge.net/projects/joomscan/)
+
+[OWASP Joomscan project](https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project)
 
