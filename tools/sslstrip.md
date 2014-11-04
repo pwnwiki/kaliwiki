@@ -2,6 +2,7 @@
 
 Notes
 -------
+This tool provides a demonstration of the HTTPS stripping attacks. It will transparently hijack HTTP traffic on a network, watch for HTTPS links and redirects, then map those links into either look-alike HTTP links or homograph-similar HTTPS links. It also supports modes for supplying a favicon which looks like a lock icon, selective logging, and session denial.
 
 Help Text
 -------
@@ -26,4 +27,7 @@ Example Usage
 
 Links
 -------
+[Author's Guide to sslstrip](http://www.thoughtcrime.org/software/sslstrip/)
+
+[sslstrip GitHub project](https://github.com/moxie0/sslstrip)
 
