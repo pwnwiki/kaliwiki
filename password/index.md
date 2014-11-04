@@ -52,5 +52,5 @@ Online Attacks
  * [owasp-zap](../tools/owasp-zap.md)
  * [patator](../tools/_template.md)
  * [phrasendrescher](../tools/_template.md)
- * [thc-pptp-bruter](../tools/_template.md)
+ * [thc-pptp-bruter](../tools/thc-pptp-bruter.md)
  * [webscarab](../tools/webscarab.md)
