@@ -1,15 +1,12 @@
-# cutycapt
+# CutyCapt
 
 Notes
 -------
-CutyCapt is a small cross-platform command-line utility to capture WebKit's rendering of a web page into a variety of vector and bitmap formats, including SVG, PDF, PS, PNG, JPEG, TIFF, GIF, and BMP.
-
-
 
 Help Text
 -------
 ```
------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
  Usage: CutyCapt --url=http://www.example.org/ --out=localfile.png            
  -----------------------------------------------------------------------------
   --help                         Print this help page and exit                
@@ -45,21 +42,11 @@ Help Text
  -----------------------------------------------------------------------------
  http://cutycapt.sf.net - (c) 2003-2010 Bjoern Hoehrmann - bjoern@hoehrmann.de
 
-
 ```
 
 Example Usage
 -------
 
-
-```
-
-```
-
 Links
 -------
-[Cutycapt Sourceforge project](http://cutycapt.sourceforge.net/)
-
-[Cutycapt GitHub project](https://github.com/hoehrmann/CutyCapt)
-
 
