@@ -37,5 +37,5 @@ Web Stress Testing
 WLAN Stress Testing
 -----------------------
 
-* [mdk3](../tools/_template.md)
+* [mdk3](../tools/mdk3.md)
 * [reaver](../tools/reaver.md)
