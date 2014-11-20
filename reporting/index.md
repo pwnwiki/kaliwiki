@@ -3,8 +3,8 @@
 
 Documentation
 --------------------
-* [dradis](../tools/_template.md)
-* [keepnote](../tools/_template.md)
+* [dradis](../tools/dradis.md)
+* [keepnote](../tools/keepnote.md)
 
 Evidence Management
 --------------------
@@ -13,11 +13,11 @@ Evidence Management
 * [maltego](../tools/maltego.md)
 * [metagoofil](../tools/metagoofil.md)
 * [pipal](../tools/_template.md)
-* [truecrypt](../tools/_template.md)
+* [truecrypt](../tools/truecrypt.md)
 
 Media Capture
 --------------------
-* [cutyapt](../tools/_template.md)
+* [cutycapt](../tools/cutycapt.md)
 * [recordmydesktop](../tools/_template.md)
 
 
