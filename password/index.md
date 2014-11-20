@@ -38,7 +38,7 @@ Offline Attacks
 Online Attacks
 -----------
 
- * [acccheck](../tools/acccheck)
+ * [acccheck](../tools/acccheck.md)
  * [burpsuite](../tools/burpsuite.md)
  * [cewl](../tools/_template.md)
  * [cisco-auditing-tool](../tools/_template.md)
