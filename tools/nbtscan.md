@@ -2,6 +2,7 @@
 
 Notes
 -------
+NBTScan is a program for scanning IP networks for NetBIOS name information (similar to what the Windows nbtstat tool provides against single hosts). It sends a NetBIOS status query to each address in a supplied range and lists received information in human readable form. For each responded host it lists IP address, NetBIOS computer name, logged-in user name and MAC address.
 
 Help Text
 -------
@@ -59,4 +60,5 @@ Example Usage
 
 Links
 -------
+[Project site](http://www.unixwiz.net/tools/nbtscan.html)
 
