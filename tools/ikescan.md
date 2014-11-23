@@ -1,7 +1,8 @@
-# ikescan
+# ike-scan
 
 Notes
 -------
+ike-scan is a command-line tool that uses the IKE protocol to discover, fingerprint and test IPsec VPN servers. It scans IP addresses for VPN servers by sending a specially crafted IKE packet to each host within a network. Most hosts running IKE will respond, identifying their presence. The tool then remains silent and monitors retransmission packets. These retransmission responses are recorded, displayed and matched against a known set of VPN product fingerprints. ike-scan can VPNs from manufacturers including Checkpoint, Cisco, Microsoft, Nortel, and Watchguard.
 
 Help Text
 -------
