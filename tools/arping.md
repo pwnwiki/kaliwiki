@@ -2,6 +2,7 @@
 
 Notes
 -------
+Arping is a computer software tool that is used to discover hosts on a computer network. The program tests whether a given IP address is in use on the local network, and can get additional information about the device using that address.
 
 Help Text
 -------
@@ -18,3 +19,4 @@ Example Usage
 
 Links
 -------
+[arping GitHub project](https://github.com/ThomasHabets/arping)
