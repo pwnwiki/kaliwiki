@@ -30,8 +30,6 @@ Bluetooth Tools
 * [btscaner](../tools/_template.md)
 * [redfang](../tools/_template.md)
 * [spooftooth](../tools/_template.md)
-* [zbreplay](../tools/_template.md)
-* [zbstumbler](../tools/_template.md)
 
 Other Wireless Tools
 ---------------------
@@ -43,7 +41,6 @@ Other Wireless Tools
 * [zbgoodfind](../tools/_template.md)
 * [zbreplay](../tools/_template.md)
 * [zbstumbler](../tools/_template.md)
-
 
 
 RFID/NFC Tools
@@ -58,7 +55,23 @@ RFID/NFC Tools
   * [nfc-mfclassic](../tools/_template.md)
 * [RFIDiot ACG]()
 * [RFIDiot FROSCH]()
+  * [read write clone unique (em4x02)](../tools/_template.md)
+  * [reset hitag2 tag](../tools/_template.md)
+  * [set fdx-b id](../tools/_template.md)
+  * [test frosch reader](../tools/_template.md)
 * [RFIDiot PCSC]()
+  * [bruteforce mifare](../tools/_template.md)
+  * [calculate jcop mifare keys](../tools/_template.md)
+  * [chip & pin info](../tools/_template.md)
+  * [continuous select tag](../tools/_template.md)
+  * [epassport read/write/clone](../tools/_template.md)
+  * [identify hf tag type](../tools/_template.md)
+  * [jcop info](../tools/_template.md)
+  * [jcop mifare read/write](../tools/_template.md)
+  * [jcop set art historical bytes](../tools/_template.md)
+  * [read mifare](../tools/_template.md)
+  * [read tag](../tools/_template.md)
+  * [select tag](../tools/_template.md)
 
 
 Software Defined Radio
