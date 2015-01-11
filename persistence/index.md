@@ -6,9 +6,9 @@ OS Backdoors
 * [cymothoa](../tools/_template.md)
 * [dbd](../tools/_template.md)
 * [intersect](../tools/_template.md)
-* [powersploit](../tools/_template.md)
+* [powersploit](../tools/powersploit.md)
 * [sbd](../tools/_template.md)
-* [u3-pwn](../tools/_template.md)
+* [u3-pwn](../tools/u3-pwn.md)
 
 Tunneling Tools
 ---------------
