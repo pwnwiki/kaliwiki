@@ -3,7 +3,7 @@
 OS Backdoors
 ---------------
 
-* [cymothoa](../tools/_template.md)
+* [cymothoa](../tools/cymothoa.md)
 * [dbd](../tools/_template.md)
 * [intersect](../tools/_template.md)
 * [powersploit](../tools/powersploit.md)
@@ -36,5 +36,5 @@ Web Backdoors
 ----------------
 
 * [webacoo](../tools/_template.md)
-* [weevely](../tools/_template.md)
+* [weevely](../tools/weevely.md)
 
