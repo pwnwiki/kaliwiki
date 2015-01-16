@@ -10,9 +10,9 @@ Disassembly
 ---------------
 
 * [jad](../tools/_template.md)
-* [rabin2](../tools/_template.md)
+* [rabin2](../tools/rabin2.md)
 * [radiff2](../tools/_template.md)
-* [rasm2](../tools/_template.md)
+* [rasm2](../tools/rasm2.md)
 * [recstudio](../tools/recstudio.md)
 * [recstudio-cli](../tools/_template.md)
 
