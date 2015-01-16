@@ -37,10 +37,11 @@ Usage: rasm2 [-CdDehLBvw] [-a arch] [-b bits] [-o addr] [-s syntax]
 
 Example Usage
 -------
-
-
 ```
-
+$ rasm2 'nop'
+90
+$ rasm2 -d '90'
+nop
 ```
 
 Links
