@@ -5,7 +5,7 @@ Notes
 This program is part of the radare project.
 
 Hasher allows you to calculate, check and show the hash values of each block of a target file. The block size is 32768 bytes by default. It's allowed to hash from stdin using '-' as a target file.
-You can hash big files by hashing each block and later determine what part of it has been modified. Useful for filesystem analysis.
+You can hash big files by hashing each block and later determine what part of it has been modified. Useful for filesystem analysis. Algorithms that are supported : md4, md5, crc16, crc32, sha1, sha256, sha384, sha512, par, xor, xorpair, mod255, hamdist, entropy, all.
 This command can be used to calculate hashes of a certain part of a file or a command line passed string.
 
 
@@ -32,4 +32,4 @@ Example Usage
 
 Links
 -------
-
+[Radare2book](http://maijin.github.io/radare2book/rahash2/intro.html)
