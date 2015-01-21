@@ -150,3 +150,8 @@ chntpw -u jabbathehutt SAM
 Links
 -------
  1. [pogostick.net](http://pogostick.net/~pnh/ntpasswd/)
+ 
+ 2. [chntpw Wikipedia article](http://en.wikipedia.org/wiki/Chntpw)
+ 
+ 3. [Ubuntu Trusty manpage](http://manpages.ubuntu.com/manpages/trusty/en/man8/chntpw.8.html)
+ 
