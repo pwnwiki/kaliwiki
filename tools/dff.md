@@ -28,4 +28,6 @@ Example Usage
 
 Links
 -------
+[Official site](http://www.digital-forensic.org/)
 
+[DFF Wikipedia article](http://en.wikipedia.org/wiki/Digital_Forensics_Framework)
