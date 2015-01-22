@@ -34,3 +34,4 @@ Example Usage
 
 Links
 -------
+[The Hackers Choice releases](https://www.thc.org/releases.php)
