@@ -27,11 +27,11 @@ Misc RE Tools
 * [javasnoop](../tools/javasnoop.md)
 * [radare2](../tools/radare2.md)
 * [rafind](../tools/_template.md)
-* [ragg2](../tools/_template.md)
-* [ragg2-cc](../tools/_template.md)
+* [ragg2](../tools/ragg2.md)
+* [ragg2-cc](../tools/ragg2.md)
 * [rahash2](../tools/rahash2.md)
 * [rarun2](../tools/_template.md)
-* [rax2](../tools/_template.md)
+* [rax2](../tools/rax2.md)
 
 
 
