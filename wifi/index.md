@@ -47,7 +47,7 @@ RFID/NFC Tools
 ---------------------
 
 * [NFC Tools]()
-  * [mfcuk](../tools/_template.md)
+  * [mfcuk](../tools/mfcuk.md)
   * [mfoc](../tools/_template.md)
   * [mfterm](../tools/_template.md)
   * [mifare-classic-format](../tools/_template.md)
