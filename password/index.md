@@ -44,7 +44,7 @@ Online Attacks
  * [cisco-auditing-tool](../tools/_template.md)
  * [dbpwaudit](../tools/dbpwaudit.md)
  * [findmyhash](../tools/_template.md)
- * [hydra](../tools/_template.md)
+ * [hydra](../tools/thc-hydra.md)
  * [hydra-gtk](../tools/_template.md)
  * [medusa](../tools/_template.md)
  * [ncrack](../tools/_template.md)
