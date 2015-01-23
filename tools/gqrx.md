@@ -20,3 +20,4 @@ Example Usage
 Links
 -------
 [Gqrx GitHub project](https://github.com/csete/gqrx)
+[Youtube Playlist](https://www.youtube.com/playlist?list=PL5942DED0157ECABD)
