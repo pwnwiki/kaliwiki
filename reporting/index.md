@@ -18,7 +18,7 @@ Evidence Management
 Media Capture
 --------------------
 * [cutycapt](../tools/cutycapt.md)
-* [recordmydesktop](../tools/_template.md)
+* [recordmydesktop](../tools/recordmydesktop.md)
 
 
 
