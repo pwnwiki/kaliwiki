@@ -47,7 +47,7 @@ The simplest way to run the tool is as follows:
 ```
 This mode of execution attempts to connect to the target ADMIN$ share with the username ‘Administrator’ and a [BLANK] for the password.
 ```
-`./acccheck.pl -t 10.10.10.1 -u test -p test
+./acccheck.pl -t 10.10.10.1 -u test -p test
 ```
 This mode of execution attempts to connect to the target IPC$ share with the username `test` and a password `test`.
 
