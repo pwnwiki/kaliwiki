@@ -125,8 +125,10 @@ SEE THE MAN PAGE (http://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 
 Example Usage
 -------
-# nmap -O -v scanme.nmap.org
+
+OS Fingerprinting with `-O`
 ```
+nmap -O -v scanme.nmap.org
 Starting Nmap ( http://nmap.org )
 Nmap scan report for scanme.nmap.org (74.207.244.221)
 Not shown: 994 closed ports
@@ -151,8 +153,9 @@ Nmap done: 1 IP address (1 host up) scanned in 5.58 seconds
            Raw packets sent: 1063 (47.432KB) | Rcvd: 1031 (41.664KB)
 ```           
            
-# nmap -A -T4 -p- -oX XMLoutput.xml scanme.nmap.org
+Enable OS detection, version detection, script scanning, and traceroute `-A`, Scan Agressively `-T4`, Output to XML `-oX` filenamed `XMLoutput.xml`
 ```
+nmap -A -T4 -p- -oX XMLoutput.xml scanme.nmap.org
 Starting Nmap 6.45 ( http://nmap.org ) at 2014-04-21 22:16 HST
 Warning: 74.207.244.221 giving up on port because retransmission cap hit (6).
 Nmap scan report for scanme.nmap.org (74.207.244.221)
@@ -217,8 +220,10 @@ Nmap scan report for 192.168.1.75
 Host is up.
 Nmap done: 256 IP addresses (10 hosts up) scanned in 3.56 seconds
 ```
-# nmap -p 80 --script http-title -Pn -n google.com
+
+Scan port 80 `-p 80` with the NSE script `http-title` disable ping `-Pn` and don't resolve hostnames `-n`
 ```
+nmap -p 80 --script http-title -Pn -n google.com
 Starting Nmap 6.45 ( http://nmap.org ) at 2014-04-21 22:19 HST
 Nmap scan report for google.com (72.234.39.57)
 Host is up (0.014s latency).
