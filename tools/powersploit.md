@@ -9,6 +9,9 @@ that can be used to aid penetration testers during all phases of an assessment.
 Help Text
 -------
 ```
+AntivirusBypass   Persistence       PowerSploit.psm1  ReverseEngineering
+CodeExecution	    PETools	          README.md	        ScriptModification
+Exfiltration	    PowerSploit.psd1  Recon
 
 ```
 
