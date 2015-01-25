@@ -47,3 +47,5 @@ nop
 Links
 -------
 [Radare2book](http://maijin.github.io/radare2book/rasm2/intro.html)
+
+[Ubuntu Trusty rasm2 manpage](http://manpages.ubuntu.com/manpages/trusty/en/man1/rasm2.1.html)
