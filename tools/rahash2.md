@@ -33,3 +33,5 @@ Example Usage
 Links
 -------
 [Radare2book](http://maijin.github.io/radare2book/rahash2/intro.html)
+
+[Ubuntu Trusty rahash2 manpage](http://manpages.ubuntu.com/manpages/trusty/en/man1/rahash2.1.html)
