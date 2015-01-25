@@ -62,3 +62,5 @@ Example Usage
 Links
 -------
 [Radare2book](http://maijin.github.io/radare2book/rabin2/intro.html)
+
+[Ubuntu Trusty rabin2 manpage](http://manpages.ubuntu.com/manpages/trusty/en/man1/rabin2.1.html)
