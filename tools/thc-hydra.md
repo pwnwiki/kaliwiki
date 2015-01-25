@@ -8,6 +8,48 @@ A very fast and flexible network logon cracker which support many different serv
 Help Text
 -------
 ```
+Hydra v7.6 (c)2013 by van Hauser/THC & David Maciejak - for legal purposes only
+
+Syntax: hydra [[[-l LOGIN|-L FILE] [-p PASS|-P FILE]] | [-C FILE]] [-e nsr] [-o FILE] [-t TASKS] [-M FILE [-T TASKS]] [-w TIME] [-W TIME] [-f] [-s PORT] [-x MIN:MAX:CHARSET] [-SuvV46] [service://server[:PORT][/OPT]]
+
+Options:
+  -R        restore a previous aborted/crashed session
+  -S        perform an SSL connect
+  -s PORT   if the service is on a different default port, define it here
+  -l LOGIN or -L FILE  login with LOGIN name, or load several logins from FILE
+  -p PASS  or -P FILE  try password PASS, or load several passwords from FILE
+  -x MIN:MAX:CHARSET  password bruteforce generation, type "-x -h" to get help
+  -e nsr    try "n" null password, "s" login as pass and/or "r" reversed login
+  -u        loop around users, not passwords (effective! implied with -x)
+  -C FILE   colon separated "login:pass" format, instead of -L/-P options
+  -M FILE   list of servers to be attacked in parallel, one entry per line
+  -o FILE   write found login/password pairs to FILE instead of stdout
+  -f / -F   exit when a login/pass pair is found (-M: -f per host, -F global)
+  -t TASKS  run TASKS number of connects in parallel (per host, default: 16)
+  -w / -W TIME  waittime for responses (32s) / between connects per thread
+  -4 / -6   prefer IPv4 (default) or IPv6 addresses
+  -v / -V / -d  verbose mode / show login+pass for each attempt / debug mode 
+  -U        service module usage details
+  server    the target server (use either this OR the -M option)
+  service   the service to crack (see below for supported protocols)
+  OPT       some service modules support additional input (-U for module help)
+
+Supported services: asterisk afp cisco cisco-enable cvs firebird ftp ftps http[s]-{head|get} http[s]-{get|post}-form http-proxy http-proxy-urlenum icq imap[s] irc ldap2[s] ldap3[-{cram|digest}md5][s] mssql mysql ncp nntp oracle-listener oracle-sid pcanywhere pcnfs pop3[s] postgres rdp rexec rlogin rsh s7-300 sip smb smtp[s] smtp-enum snmp socks5 ssh sshkey svn teamspeak telnet[s] vmauthd vnc xmpp
+
+Hydra is a tool to guess/crack valid login/password pairs - usage only allowed
+for legal purposes. This tool is licensed under AGPL v3.0.
+The newest version is always available at http://www.thc.org/thc-hydra
+These services were not compiled in: sapr3 oracle.
+
+Use HYDRA_PROXY_HTTP or HYDRA_PROXY - and if needed HYDRA_PROXY_AUTH - environment for a proxy setup.
+E.g.:  % export HYDRA_PROXY=socks5://127.0.0.1:9150 (or socks4:// or connect://)
+       % export HYDRA_PROXY_HTTP=http://proxy:8080
+       % export HYDRA_PROXY_AUTH=user:pass
+
+Examples:
+  hydra -l user -P passlist.txt ftp://192.168.0.1
+  hydra -L userlist.txt -p defaultpw imap://192.168.0.1/PLAIN
+  hydra -C defaults.txt -6 pop3s://[fe80::2c:31ff:fe12:ac11]:143/TLS:DIGEST-MD5
 
 ```
 
