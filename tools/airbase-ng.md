@@ -23,7 +23,6 @@ The main idea is of the implementation  is  that  it  should  encourage clients 
 A tap interface (atX) is created when airbase-ng is run.  This  can  be used to receive decrypted packets or to send encrypted packets.
 
 As  real clients will most probably send probe requests for common figured networks, these frames are important for binding a client to our softAP. In this case, the AP will respond to any probe request with a proper probe response, which tells the client to authenticate to  the airbase-ng BSSID. That being said, this mode could possibly disrupt the correct functionality of many APs on the same channel.
-```
 
 Help Text
 -----
@@ -62,7 +61,7 @@ Help Text
       -P               : respond to all probes, even when specifying ESSIDs
       -I interval      : sets the beacon interval value in ms
       -C seconds       : enables beaconing of probed ESSID values (requires -P)
-
+      
   Filter options:
       --bssid MAC      : BSSID to filter/use
       --bssids file    : read a list of BSSIDs out of that file
@@ -70,7 +69,7 @@ Help Text
       --clients file   : read a list of MACs out of that file
       --essid ESSID    : specify a single ESSID (default: default)
       --essids file    : read a list of ESSIDs out of that file
-
+      
       --help           : Displays this usage screen
 ```
 
