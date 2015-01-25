@@ -280,7 +280,8 @@ Expanded Options from man page:
               This sets the time in milliseconds between each beacon.
 
        -C <seconds>
-              The  wildcard  ESSIDs  will also be beaconed this number of seconds. A good typical value to use is "-C 60" (require -P).
+              The  wildcard  ESSIDs  will also be beaconed this number of seconds.
+              A good typical value to use is "-C 60" (require -P).
 
        Filter options:
 
