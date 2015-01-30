@@ -2,6 +2,7 @@
 
 Notes
 -------
+sslh - Applicative protocol multiplexer, accepts connections on specified ports, and forwards them further based on tests performed on the first data packet sent by the remote client.
 
 Help Text
 -------
@@ -32,4 +33,7 @@ Example Usage
 
 Links
 -------
+[Official site](http://www.rutschle.net/tech/sslh.shtml)
+
+[sslh Github project](https://github.com/yrutschle/sslh)
 
