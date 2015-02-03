@@ -22,7 +22,23 @@ Usage: dnstracer [options] [host]
 ```
 
 Example Usage
--------
+-------------
+Search for the A record of www.mavetju.org on your local nameserver:
+
+dnstracer www.mavetju.org
+
+Search for the MX record of mavetju.org on the root-nameservers:
+
+dnstracer "-s" . "-q" mx mavetju.org
+
+Search for the PTR record (hostname) of 212.204.230.141:
+
+dnstracer "-q" ptr 141.230.204.212.in-addr.arpa
+
+And for IPv6 addresses:
+
+dnstracer "-q" ptr "-s" . "-o"
+2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6.4.0.2.0.0.0.0.8.b.0.e.f.f.3.ip6.int
 
 Links
--------
+-----
