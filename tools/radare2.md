@@ -55,3 +55,5 @@ Links
 [Defeating ioli with radare2](http://dustri.org/b/defeating-ioli-with-radare2.html)
 
 [Ubuntu Trusty radare2 manpage](http://manpages.ubuntu.com/manpages/trusty/en/man1/radare2.1.html)
+
+[Reverse Engineering Embedded Software Using Radare2](https://github.com/pastcompute/lca2015-radare2-tutorial)
