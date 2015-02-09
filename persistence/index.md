@@ -25,7 +25,7 @@ Tunneling Tools
 * [ptunnel](../tools/_template.md)
 * [pwnat](../tools/_template.md)
 * [sbd](../tools/_template.md)
-* [socat](../tools/_template.md)
+* [socat](../tools/socat.md)
 * [sslh](../tools/_template.md)
 * [stunnel4](../tools/_template.md)
 * [udptunnel](../tools/_template.md)
