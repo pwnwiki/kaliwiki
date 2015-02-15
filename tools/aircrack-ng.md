@@ -2,7 +2,7 @@
 
 Notes
 -------
-
+Aircrack-ng is an 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured. It implements the standard FMS attack along with some optimizations like KoreK attacks, as well as the PTW attack, thus making the attack much faster compared to other WEP cracking tools.
 
 
 Help Text
@@ -65,13 +65,17 @@ Aircrack-ng 1.2 beta3 - (C) 2006-2013 Thomas d'Otreppe
 
 Example Usage
 -------
-Any helpful examples found around the web or from personal experience
 
 ```
-Actual commands can go here
+
 ```
 
 Links
 -------
-Include a link to the tools source / github / sourceforge / etc.
-Include any links to helpful example such as videos, webpages, etc.
+[Official site](http://aircrack-ng.org/)
+
+[Aircrack Documentation](http://aircrack-ng.org/documentation.html)
+
+[Aircrack Getting started Tutorial](http://aircrack-ng.org/doku.php?id=getting_started)
+
+[Aircrack Ubuntu Trusty manpage](http://manpages.ubuntu.com/manpages/trusty/en/man1/aircrack-ng.1.html)
