@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!--
-   This is MDwiki v0.6.1
+   This is MDwiki v0.6.2
    (C) 2013 by Timo Dörr and contributors. This software is licensed
    under the terms of the GNU GPLv3 with additional terms applied.
    See https://github.com/Dynalon/mdwiki/blob/master/LICENSE.txt for more detail.
@@ -3912,7 +3912,7 @@ function googlemapsReady() {
 (function($) {
     'use strict';
     var iframeGimmick= {
-        name: 'forkmeongithub',
+        name: 'iframe',
         version: $.md.version,
         once: function() {
             $.md.linkGimmick(this, 'iframe', create_iframe);
@@ -3990,6 +3990,7 @@ function googlemapsReady() {
         { name: 'united', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.0/united/bootstrap.min.css' },
         { name: 'yeti', url: 'netdna.bootstrapcdn.com/bootswatch/3.0.2/yeti/bootstrap.min.css' }
     ];
+    var useChooser = false;
     var themeChooserGimmick = {
         name: 'Themes',
         version: $.md.version,
@@ -4052,8 +4053,9 @@ function googlemapsReady() {
             $.md.stage('postgimmick').subscribe(function(done) {
                 var $link = $(link);
 
-                // only set a theme if no theme from the choser is selected
-                if (window.localStorage.theme === undefined) {
+                // only set a theme if no theme from the chooser is selected,
+                // or if the chooser isn't enabled
+                if (window.localStorage.theme === undefined || !useChooser) {
                     set_theme(opt);
                 }
 
@@ -4065,6 +4067,7 @@ function googlemapsReady() {
 
     var themechooser = function($links, opt, text) {
 
+        useChooser = true;
         $.md.stage('bootstrap').subscribe(function(done) {
             restore_theme(opt);
             done();
@@ -4194,6 +4197,52 @@ function googlemapsReady() {
             }
         });
     }
+}(jQuery));
+
+(function($) {
+    'use strict';
+    function yuml($link, opt, text) {
+        var default_options = {
+            type: 'class',  /* { class, activity, usecase } */
+            style: 'plain', /* { plain, scruffy } */
+            direction: 'LR',      /* LR, TB, RL */
+            scale: '100'
+        };
+        var options = $.extend ({}, default_options, opt);
+
+        return $link.each(function(i,e) {
+
+            var $this = $(e);
+            var url = 'http://yuml.me/diagram/';
+            var data = $this.attr('href');
+            var title = $this.attr('title');
+
+            title = (title ? title : '');
+
+            /* `FOOBAR´ => (FOOBAR) */
+            data = data.replace( new RegExp('`', 'g'), '(' ).replace( new RegExp('´', 'g'), ')' );
+
+            url += options.style + ';dir:' + options.direction + ';scale:' + options.scale + '/' + options.type + '/' + data;
+
+            var $img = $('<img src="' + url + '" title="' + title + '" alt="' + title + '">');
+
+            $this.replaceWith($img);
+        });
+    }
+    var yumlGimmick = {
+        name: 'yuml',
+        version: $.md.version,
+        once: function() {
+            $.md.linkGimmick(this, 'yuml', yuml);
+            $.md.registerScript(this, '', {
+                license: 'LGPL',
+                loadstage: 'postgimmick',
+                finishstage: 'all_ready'
+            });
+        }
+    };
+    $.md.registerGimmick(yumlGimmick);
+
 }(jQuery));
 </script>
 <!-- END dist/MDwiki.js -->
