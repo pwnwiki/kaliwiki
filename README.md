@@ -23,7 +23,7 @@ Curators:
 
   * [@mubix](https://twitter.com/mubix) [gimmick:TwitterFollow](@mubix)
   * [@webbreacher](https://twitter.com/webbreacher) [gimmick:TwitterFollow](@webbreacher)
-  * [@eid010n](https://twitter.com/eid010n) [gimmick:TwitterFollow](@eid010n)
+  * [@InfoSec_Eidolon](https://twitter.com/InfoSec_Eidolon) [gimmick:TwitterFollow](@InfoSec_Eidolon)
   * [filinpavel](https://github.com/filinpavel)
 
   
